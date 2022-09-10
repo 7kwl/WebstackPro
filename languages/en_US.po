@@ -1,0 +1,1733 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebStacks PRO\n"
+"POT-Creation-Date: 2020-04-06 04:26+0800\n"
+"PO-Revision-Date: 2020-04-06 04:27+0800\n"
+"Last-Translator: \n"
+"Language-Team: iowen,河小马\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc/framework\n"
+"X-Poedit-SearchPathExcluded-1: inc/theme-settings.php\n"
+"X-Poedit-SearchPathExcluded-2: inc/meta-boxs.php\n"
+"X-Poedit-SearchPathExcluded-3: inc/meta-taxonomy.php\n"
+
+#: 404.php:20
+msgid "抱歉，没有你要找的内容..."
+msgstr "Sorry, the contents you're searching don't esixt..."
+
+#: 404.php:22
+msgid "返回首页"
+msgstr "Back to home"
+
+#: comments.php:18
+msgid "暂无评论"
+msgstr "No comments"
+
+#: comments.php:18
+msgid "1 条评论"
+msgstr "1 comment"
+
+#: comments.php:18
+msgid "% 条评论"
+msgstr "% comments"
+
+#: comments.php:28
+msgid "您必须登录才能参与评论！"
+msgstr "You must be logged in to leave a comment!"
+
+#: comments.php:29
+msgid "立即登录"
+msgstr "Login immediately"
+
+#: comments.php:37
+msgid "退出"
+msgstr "Logout"
+
+#: comments.php:47
+msgid "输入评论内容..."
+msgstr "Comments..."
+
+#: comments.php:51
+msgid "昵称"
+msgstr "Nickname"
+
+#: comments.php:52
+msgid "邮箱"
+msgstr "Emails"
+
+#: comments.php:53 inc/post-type.php:8 inc/post-type.php:9 inc/post-type.php:10
+#: inc/post-type.php:11 search.php:13
+msgid "网址"
+msgstr "Website"
+
+#: comments.php:58
+msgid "再想想"
+msgstr "Think again"
+
+#: comments.php:62 comments.php:64
+msgid "发表评论"
+msgstr "Post comments"
+
+#: comments.php:75
+msgid "评论已关闭..."
+msgstr "Comment closed..."
+
+#: comments.php:88
+msgid "暂无评论..."
+msgstr "No comments..."
+
+#: footer.php:22
+msgid "夜间模式"
+msgstr "Dark mode"
+
+#: footer.php:46
+msgid "热门推荐："
+msgstr "Hot recommendations:"
+
+#: functions.php:94
+msgid "先保存一遍主题设置选项，否则会报错"
+msgstr "Save template settings first otherwise there will be errors"
+
+#: functions.php:125
+msgid "WebStacks PRO 主题使用说明"
+msgstr "Documentations of Webstacks Pro"
+
+#: go.php:10
+msgid "加载中"
+msgstr "Loading"
+
+#: go.php:16
+msgid "参数缺失，正在返回首页..."
+msgstr "Arguments missed, returning to home page..."
+
+#: inc/ajax.php:9 inc/ajax.php:64 inc/ajax.php:106 inc/ajax.php:260
+msgid "对不起!您没有通过安全检查"
+msgstr "Sorry! You did not pass the security check"
+
+#: inc/ajax.php:20
+msgid "图片类型只能是jpeg,jpg,png！"
+msgstr "The picture type can only be JPEG, JPG, PNG!"
+
+#: inc/ajax.php:24
+msgid "图片大小不能超过64kb"
+msgstr "Picture size cannot exceed 64kb"
+
+#: inc/ajax.php:50
+msgid "图片添加成功"
+msgstr "Image adding succeeded!"
+
+#: inc/ajax.php:53
+msgid "图片上传失败！"
+msgstr "Image uploading failed!"
+
+#: inc/ajax.php:68
+msgid "没有上传图像！"
+msgstr "Image not uploaded!"
+
+#: inc/ajax.php:76
+msgid "图片"
+msgstr "Image"
+
+#: inc/ajax.php:76
+msgid "删除失败！"
+msgstr "Deleting failed!"
+
+#: inc/ajax.php:78
+msgid "删除成功！"
+msgstr "Deleting succeeded!"
+
+#: inc/ajax.php:93
+msgid "此标题已存在，请换一个标题！"
+msgstr "Title already existed, please change it!"
+
+#: inc/ajax.php:95
+msgid "恭喜，此标题未与其他文章标题重复！"
+msgstr "Congratulations, you can use this title!"
+
+#: inc/ajax.php:110
+#, php-format
+msgid "您投稿也太勤快了吧，“%s”秒后再试！"
+msgstr "Your submission is too frequent. Try again in '%s' seconds!"
+
+#: inc/ajax.php:133
+msgid "网站"
+msgstr "Website"
+
+#: inc/ajax.php:135
+msgid "资源"
+msgstr "Resources"
+
+#: inc/ajax.php:137 templates/content-site.php:80
+msgid "公众号"
+msgstr "Wechat official account"
+
+#: inc/ajax.php:148
+msgid "名称必须填写，且长度不得超过30字。"
+msgstr "Name is required and no more than 30 chars."
+
+#: inc/ajax.php:153
+msgid "存在相同的名称，请不要重复提交哦！"
+msgstr "Duplicated name, please don't resubmit same name!"
+
+#: inc/ajax.php:157
+msgid "链接必须填写，且必须符合URL格式。"
+msgstr "Website is required and qualifies for URL standards."
+
+#: inc/ajax.php:161 inc/ajax.php:328
+msgid "存在相同的链接地址，请不要重复提交哦！"
+msgstr "Duplicated websites, please don't resubmit same website!"
+
+#: inc/ajax.php:165
+msgid "描叙必须填写，且长度不得超过50字。"
+msgstr "Description is required and no more than 50 chars."
+
+#: inc/ajax.php:168
+msgid "请选择分类。"
+msgstr "Please select a category."
+
+#: inc/ajax.php:171
+msgid "不能选用父级分类目录。"
+msgstr "Parent category is not allowed."
+
+#: inc/ajax.php:174
+msgid "必须添加二维码。"
+msgstr "QR code is required."
+
+#: inc/ajax.php:181
+msgid "“官网地址”和“网盘地址”怎么地也待填一个把。"
+msgstr "Fill in website URL or file sharing URL."
+
+#: inc/ajax.php:247
+msgid "投稿成功！"
+msgstr "Submission succeeded!"
+
+#: inc/ajax.php:249
+msgid "投稿失败！"
+msgstr "Submission failed!"
+
+#: inc/ajax.php:298 inc/inc.php:600
+msgid "您的评论需要审核后才能显示！"
+msgstr "Your comments need approval"
+
+#: inc/ajax.php:331
+msgid "没有重复地址，可以提交！"
+msgstr "No duplicate URLs, you can submit!"
+
+#: inc/ajax.php:334
+msgid "请填写地址！"
+msgstr "Please fill in the URL!"
+
+#: inc/ajax.php:478 inc/ajax.php:524 inc/ajax.php:565
+#: templates/tools-hotcontent.php:88
+msgid "没有数据！请开启统计并等待产生数据"
+msgstr "No data! Please enable statistics function and wait for data coming in"
+
+#: inc/fav-content.php:284 taxonomy-apps.php:20 taxonomy-apptag.php:20
+#: taxonomy-books.php:22 taxonomy-booktag.php:18 taxonomy-favorites.php:22
+#: taxonomy-series.php:18 taxonomy-sitetag.php:20 templates/search-app.php:7
+#: templates/search-book.php:7 templates/search-sites.php:7
+msgid "没有内容"
+msgstr "No content"
+
+#: inc/inc.php:8
+msgid "博客布局侧边栏"
+msgstr "Blog's sidebar"
+
+#: inc/inc.php:10
+msgid "显示在首页博客布局侧边栏"
+msgstr "Display on the sidebar of blog's home page"
+
+#: inc/inc.php:17
+msgid "正文侧边栏"
+msgstr "Sidebar of content"
+
+#: inc/inc.php:19
+msgid "显示在文章正文及页面侧边栏"
+msgstr "Display on the content and its sidebar"
+
+#: inc/inc.php:27
+msgid "分类归档侧边栏"
+msgstr "Sidebar of category"
+
+#: inc/inc.php:29
+msgid "显示在文章归档页、搜索、404页侧边栏 "
+msgstr "Display on archive, search and 404 page"
+
+#: inc/inc.php:36
+msgid "公告归档页侧边栏"
+msgstr "Sidebar of announcement"
+
+#: inc/inc.php:38
+msgid "显示在公告归档页侧边栏"
+msgstr "Display on the sidebar of announcement"
+
+#: inc/inc.php:49
+msgid "侧栏主菜单"
+msgstr "Sidebar main menu"
+
+#: inc/inc.php:50
+msgid "侧栏底部菜单"
+msgstr "Sidebar bottom menu"
+
+#: inc/inc.php:51
+msgid "顶部菜单"
+msgstr "Top menu"
+
+#: inc/inc.php:52
+msgid "搜索推荐"
+msgstr "Search recommendation"
+
+#: inc/inc.php:61
+msgid "请到[后台->外观->菜单]中添加“搜索推荐”菜单。"
+msgstr ""
+"Please go to wp-admin -> Appearance -> Menus to add menu of \"search "
+"recommendation\"."
+
+#: inc/inc.php:63
+msgid "请到[后台->外观->菜单]中设置菜单。"
+msgstr "Please go to wp-admin -> Appearance -> Menu to set up menus."
+
+#: inc/inc.php:126
+msgid "置顶"
+msgstr "Top"
+
+#: inc/inc.php:140
+msgid "新"
+msgstr "New"
+
+#: inc/inc.php:353
+msgid "网址状态"
+msgstr "Website status"
+
+#: inc/inc.php:356
+msgid "网站收录了"
+msgstr "Website indexed"
+
+#: inc/inc.php:356
+msgid "个网址"
+msgstr "Personal website"
+
+#: inc/inc.php:369
+msgid "有"
+msgstr "have"
+
+#: inc/inc.php:369
+msgid "个网址可能失效了(死链)"
+msgstr "Website's link dead"
+
+#: inc/inc.php:371
+msgid "失效列表："
+msgstr "Expired list:"
+
+#: inc/inc.php:375
+msgid ""
+"请手动检测一下，如果没有问题，请点击对应网址进入编辑，然后修改自定义字"
+"段“invalid”的值为0"
+msgstr ""
+"Please check it manually. If there's no problem, please edit corresponding "
+"website and change custom field value of \"invalid\" to 0"
+
+#: inc/inc.php:378
+msgid "所有网址都可以正常访问"
+msgstr "All websites are fully functioning."
+
+#: inc/inc.php:511
+msgid "刚刚"
+msgstr "Just"
+
+#: inc/inc.php:513
+msgid "年前"
+msgstr "years go"
+
+#: inc/inc.php:514
+msgid "个月前"
+msgstr "months ago"
+
+#: inc/inc.php:515
+msgid "周前"
+msgstr "weeks ago"
+
+#: inc/inc.php:516
+msgid "天前"
+msgstr "days ago"
+
+#: inc/inc.php:517
+msgid "小时前"
+msgstr "hours ago"
+
+#: inc/inc.php:518
+msgid "分钟前"
+msgstr "minutes ago"
+
+#: inc/inc.php:519
+msgid "秒前"
+msgstr "seconds ago"
+
+#: inc/inc.php:536 inc/widgets.php:943
+msgid "博主"
+msgstr "Blogger"
+
+#: inc/inc.php:575
+msgid "头衔："
+msgstr "Title:"
+
+#: inc/inc.php:575
+msgid "累计评论："
+msgstr "Total Comments:"
+
+#: inc/inc.php:629
+msgid "请勿冒充管理员发表评论！"
+msgstr "Don't post as a moderator!"
+
+#: inc/inc.php:641
+msgid "别啊，昵称和评论里面添加链接会怀孕的哟！！"
+msgstr "No, adding links to nicknames and comments will be pregnant!!!"
+
+#: inc/inc.php:645 inc/inc.php:648
+msgid "评论必须含中文！"
+msgstr "Comments must be in Chinese!"
+
+#: inc/inc.php:653
+#, php-format
+msgid "不好意思，您的评论违反了%s博客评论规则"
+msgstr "Sorry, your comment violates the %s blog comment rules"
+
+#: inc/inc.php:749 inc/inc.php:808
+msgid "暂无文章"
+msgstr "No posts"
+
+#: inc/inc.php:913
+#, php-format
+msgid "查看与 %s 相关的文章"
+msgstr "View articles related to %s"
+
+#: inc/inc.php:1089
+msgid "验证"
+msgstr "verification"
+
+#: inc/inc.php:1098
+msgid "验证成功"
+msgstr "Verify success"
+
+#: inc/inc.php:1107
+msgid "请先验证！！！"
+msgstr "Please verify first!"
+
+#: inc/post-type.php:12
+msgid "添加网址"
+msgstr "Add website"
+
+#: inc/post-type.php:13
+msgid "添加新网址"
+msgstr "Add new website"
+
+#: inc/post-type.php:14
+msgid "新网址"
+msgstr "New website"
+
+#: inc/post-type.php:15 templates/tools-customize.php:14
+msgid "编辑网址"
+msgstr "Edit website"
+
+#: inc/post-type.php:16
+msgid "查看网址"
+msgstr "Show website"
+
+#: inc/post-type.php:17
+msgid "所有网址"
+msgstr "All websites"
+
+#: inc/post-type.php:18
+msgid "搜索网址"
+msgstr "Search website"
+
+#: inc/post-type.php:19
+msgid "Parent 网址:"
+msgstr "Parent websites:"
+
+#: inc/post-type.php:20
+msgid "你还没有发布网址。"
+msgstr "You haven't published website"
+
+#: inc/post-type.php:21
+msgid "回收站中没有网址。"
+msgstr "There's no website at recycle bin"
+
+#: inc/post-type.php:46
+msgid "网址分类目录"
+msgstr "Website categories"
+
+#: inc/post-type.php:47 inc/post-type.php:56
+msgid "网址分类"
+msgstr "Website cagegories"
+
+#: inc/post-type.php:48
+msgid "搜索网址目录"
+msgstr "Search websites"
+
+#: inc/post-type.php:49
+msgid "所有网址目录"
+msgstr "All websites"
+
+#: inc/post-type.php:50 inc/post-type.php:79 inc/post-type.php:150
+#: inc/post-type.php:179 inc/post-type.php:248 inc/post-type.php:277
+msgid "父级分类目录"
+msgstr "Menu of parent category"
+
+#: inc/post-type.php:51 inc/post-type.php:80 inc/post-type.php:151
+#: inc/post-type.php:180 inc/post-type.php:249 inc/post-type.php:278
+msgid "父级分类目录:"
+msgstr "Menu of parent category:"
+
+#: inc/post-type.php:52
+msgid "编辑网址目录"
+msgstr "Edit website"
+
+#: inc/post-type.php:53
+msgid "更新网址目录"
+msgstr "Update website"
+
+#: inc/post-type.php:54
+msgid "添加新网址目录"
+msgstr "Add new website"
+
+#: inc/post-type.php:75 inc/post-type.php:76 inc/post-type.php:85
+msgid "网址标签"
+msgstr "Website tag"
+
+#: inc/post-type.php:77
+msgid "搜索网址标签"
+msgstr "Search website tags"
+
+#: inc/post-type.php:78
+msgid "所有网址标签"
+msgstr "All website tags"
+
+#: inc/post-type.php:81
+msgid "编辑网址标签"
+msgstr "Edit website tags"
+
+#: inc/post-type.php:82
+msgid "更新网址标签"
+msgstr "Update website tags"
+
+#: inc/post-type.php:83
+msgid "添加新网址标签"
+msgstr "Add new website tags"
+
+#: inc/post-type.php:111
+msgid "添加APP"
+msgstr "Add APP"
+
+#: inc/post-type.php:112
+msgid "添加新APP"
+msgstr "Add new APP"
+
+#: inc/post-type.php:113
+msgid "新APP"
+msgstr "New App"
+
+#: inc/post-type.php:114
+msgid "编辑APP"
+msgstr "Edit APP"
+
+#: inc/post-type.php:115
+msgid "查看APP"
+msgstr "Show APPs"
+
+#: inc/post-type.php:116
+msgid "所有APP"
+msgstr "All APPs"
+
+#: inc/post-type.php:117
+msgid "搜索APP"
+msgstr "Search APP"
+
+#: inc/post-type.php:119
+msgid "你还没有发布APP。"
+msgstr "You haven't published APP."
+
+#: inc/post-type.php:120
+msgid "回收站中没有APP。"
+msgstr "There's no APP at recycle bin."
+
+#: inc/post-type.php:146
+msgid "APP分类目录"
+msgstr "APP category"
+
+#: inc/post-type.php:147 inc/post-type.php:156
+msgid "APP分类"
+msgstr "APP category"
+
+#: inc/post-type.php:148
+msgid "搜索APP目录"
+msgstr "Search APP"
+
+#: inc/post-type.php:149
+msgid "所有APP目录"
+msgstr "All APP"
+
+#: inc/post-type.php:152
+msgid "编辑APP目录"
+msgstr "Edit APP"
+
+#: inc/post-type.php:153
+msgid "更新APP目录"
+msgstr "Update APP"
+
+#: inc/post-type.php:154
+msgid "添加新APP目录"
+msgstr "Add new APP"
+
+#: inc/post-type.php:175 inc/post-type.php:176 inc/post-type.php:185
+msgid "APP标签"
+msgstr "APP tag"
+
+#: inc/post-type.php:177
+msgid "搜索APP标签"
+msgstr "Search APP tag"
+
+#: inc/post-type.php:178
+msgid "所有APP标签"
+msgstr "All APP tags"
+
+#: inc/post-type.php:181
+msgid "编辑APP标签"
+msgstr "Edit APP tag"
+
+#: inc/post-type.php:182
+msgid "更新APP标签"
+msgstr "Update APP tag"
+
+#: inc/post-type.php:183
+msgid "添加新APP标签"
+msgstr "Add new APP tag"
+
+#: inc/post-type.php:209
+msgid "添加书籍"
+msgstr "Add book"
+
+#: inc/post-type.php:210
+msgid "添加新书籍"
+msgstr "Add new book"
+
+#: inc/post-type.php:211
+msgid "新书籍"
+msgstr "New book"
+
+#: inc/post-type.php:212
+msgid "编辑书籍"
+msgstr "Edit book"
+
+#: inc/post-type.php:213
+msgid "查看书籍"
+msgstr "View books"
+
+#: inc/post-type.php:214
+msgid "所有书籍"
+msgstr "All books"
+
+#: inc/post-type.php:215
+msgid "搜索书籍"
+msgstr "Search books"
+
+#: inc/post-type.php:217
+msgid "你还没有发布书籍。"
+msgstr "You haven't published book."
+
+#: inc/post-type.php:218
+msgid "回收站中没有书籍。"
+msgstr "There's no book at recycle bin."
+
+#: inc/post-type.php:244
+msgid "书籍分类目录"
+msgstr "Book category"
+
+#: inc/post-type.php:245 inc/post-type.php:254
+msgid "书籍分类"
+msgstr "Book category"
+
+#: inc/post-type.php:246
+msgid "搜索书籍目录"
+msgstr "Search book category"
+
+#: inc/post-type.php:247
+msgid "所有书籍目录"
+msgstr "All book category"
+
+#: inc/post-type.php:250
+msgid "编辑书籍目录"
+msgstr "Edit book category"
+
+#: inc/post-type.php:251
+msgid "更新书籍目录"
+msgstr "Update book category"
+
+#: inc/post-type.php:252
+msgid "添加新书籍目录"
+msgstr "Add new book category"
+
+#: inc/post-type.php:273 inc/post-type.php:274 inc/post-type.php:283
+msgid "书籍标签"
+msgstr "Book tag"
+
+#: inc/post-type.php:275
+msgid "搜索书籍标签"
+msgstr "Search book tag"
+
+#: inc/post-type.php:276
+msgid "所有书籍标签"
+msgstr "All  book tag"
+
+#: inc/post-type.php:279
+msgid "编辑书籍标签"
+msgstr "Edit  book tag"
+
+#: inc/post-type.php:280
+msgid "更新书籍标签"
+msgstr "Update  book tag"
+
+#: inc/post-type.php:281
+msgid "添加新书籍标签"
+msgstr "Add new book tag"
+
+#: inc/post-type.php:321 inc/post-type.php:322 inc/post-type.php:323
+#: inc/post-type.php:324 single-bulletin.php:22 template-bulletin.php:26
+msgid "公告"
+msgstr "Announcement"
+
+#: inc/post-type.php:325
+msgid "发布公告"
+msgstr "Publish announcement"
+
+#: inc/post-type.php:326
+msgid "发布新公告"
+msgstr "Publish new announcement"
+
+#: inc/post-type.php:327
+msgid "新公告"
+msgstr "New announcement"
+
+#: inc/post-type.php:328
+msgid "编辑公告"
+msgstr "Edit announcement"
+
+#: inc/post-type.php:329
+msgid "查看公告"
+msgstr "Check announcement"
+
+#: inc/post-type.php:330 single-bulletin.php:24
+msgid "所有公告"
+msgstr "All announcements"
+
+#: inc/post-type.php:331
+msgid "搜索公告"
+msgstr "Search announcements"
+
+#: inc/post-type.php:332
+msgid "Parent 公告:"
+msgstr "Parent announcement:"
+
+#: inc/post-type.php:333
+msgid "你还没有发布公告。"
+msgstr "You haven't published announcement."
+
+#: inc/post-type.php:334
+msgid "回收站中没有公告。"
+msgstr "There's no announcement at recycle bin."
+
+#: inc/post-type.php:517
+msgid "选择类型"
+msgstr "Choose a type"
+
+#: inc/post-type.php:570 inc/post-type.php:611 inc/post-type.php:612
+#: inc/post-type.php:613
+msgid "Sticky"
+msgstr ""
+
+#: inc/post-type.php:579
+msgid "Status"
+msgstr ""
+
+#: inc/post-type.php:580
+msgid "Make this post sticky"
+msgstr ""
+
+#: inc/post-type.php:595
+msgid "Public, Sticky"
+msgstr ""
+
+#: inc/post-type.php:597 inc/post-type.php:616
+msgid "Stick this post to the front page"
+msgstr ""
+
+#: inc/post-type.php:626 inc/post-type.php:713 inc/post-type.php:725
+msgid "排序"
+msgstr "Order"
+
+#: inc/post-type.php:647
+msgid "菜单排序"
+msgstr "Menu order"
+
+#: inc/post-type.php:716 inc/post-type.php:728
+msgid "越大越靠前"
+msgstr "The bigger, the higher"
+
+#: inc/post-type.php:813
+msgid "查重"
+msgstr "Check"
+
+#: inc/post-type.php:813
+msgid "获取元数据（名称、描叙、关键字、国家）"
+msgstr "Get meta value(name, description, keyword, country)"
+
+#: inc/post-type.php:895
+msgid "刷新图标"
+msgstr "Refresh icon"
+
+#: inc/postviews/postviews-options.php:20
+#: inc/postviews/postviews-options.php:61
+msgid "浏览计数设置"
+msgstr "Setting of views"
+
+#: inc/postviews/postviews-options.php:25
+msgid "已更新"
+msgstr "Updated"
+
+#: inc/postviews/postviews-options.php:30
+msgid "无选项更新"
+msgstr "No updating option"
+
+#: inc/postviews/postviews-options.php:50 inc/postviews/postviews.php:217
+#: inc/widgets.php:964 templates/content-book.php:52
+#: templates/content-site.php:38
+msgid "浏览"
+msgstr "Views"
+
+#: inc/postviews/postviews-options.php:64
+msgid "计数来源："
+msgstr "Views from:"
+
+#: inc/postviews/postviews-options.php:67
+msgid "所有人"
+msgstr "All"
+
+#: inc/postviews/postviews-options.php:68
+msgid "只有访客"
+msgstr "Guest only"
+
+#: inc/postviews/postviews-options.php:69
+msgid "只有注册用户"
+msgstr "Registered members only"
+
+#: inc/postviews/postviews-options.php:74
+msgid "排除机器人(爬虫等)："
+msgstr "Exclude bots(like crawlers)"
+
+#: inc/postviews/postviews-options.php:77
+#: inc/postviews/postviews-options.php:87
+msgid "否"
+msgstr "No"
+
+#: inc/postviews/postviews-options.php:78
+#: inc/postviews/postviews-options.php:88
+msgid "是"
+msgstr "Yes"
+
+#: inc/postviews/postviews-options.php:84
+msgid "使用Ajax更新浏览次数："
+msgstr "Update views using AJAX:"
+
+#: inc/postviews/postviews-options.php:91
+msgid "如果启用了静态缓存，将使用AJAX更新浏览计数。"
+msgstr "If static cache is enabled, views will be updated using AJAX:"
+
+#: inc/postviews/postviews-options.php:100
+msgid "显示模板："
+msgstr "Show template:"
+
+#: inc/postviews/postviews-options.php:101
+msgid "可使用的变量："
+msgstr "Available variables:"
+
+#: inc/postviews/postviews-options.php:104
+msgid "恢复默认模板"
+msgstr "Reset to default template"
+
+#: inc/postviews/postviews-options.php:112
+msgid "保存设置"
+msgstr "Save"
+
+#: inc/postviews/postviews.php:10
+msgid "浏览计数"
+msgstr "Views"
+
+#: inc/search-list.php:12
+msgid "常用"
+msgstr "Common"
+
+#: inc/search-list.php:16 inc/search-list.php:53
+msgid "百度"
+msgstr "Baidu"
+
+#: inc/search-list.php:17 inc/search-list.php:54
+msgid "百度一下"
+msgstr "Baidu"
+
+#: inc/search-list.php:23 inc/search-list.php:60
+msgid "谷歌两下"
+msgstr "Google"
+
+#: inc/search-list.php:28
+msgid "站内"
+msgstr "In Website"
+
+#: inc/search-list.php:29
+msgid "站内搜索"
+msgstr "Search in website"
+
+#: inc/search-list.php:34 inc/search-list.php:35 inc/search-list.php:176
+#: inc/search-list.php:177
+msgid "淘宝"
+msgstr "Taobao"
+
+#: inc/search-list.php:41 inc/search-list.php:78
+msgid "微软Bing搜索"
+msgstr "Bing"
+
+#: inc/search-list.php:49
+msgid "搜索"
+msgstr "Search"
+
+#: inc/search-list.php:66
+msgid "360好搜"
+msgstr "So.com"
+
+#: inc/search-list.php:71
+msgid "搜狗"
+msgstr "Sogou"
+
+#: inc/search-list.php:72
+msgid "搜狗搜索"
+msgstr "Sougou"
+
+#: inc/search-list.php:83
+msgid "神马"
+msgstr "SM.cn"
+
+#: inc/search-list.php:84
+msgid "UC移动端搜索"
+msgstr "UC mobile search"
+
+#: inc/search-list.php:92
+msgid "工具"
+msgstr "Tools"
+
+#: inc/search-list.php:96
+msgid "权重查询"
+msgstr "Weight Search"
+
+#: inc/search-list.php:97 inc/search-list.php:103 inc/search-list.php:109
+#: inc/search-list.php:115 inc/search-list.php:121
+msgid "请输入网址(不带http://)"
+msgstr "Please fill in website URL(no http://)"
+
+#: inc/search-list.php:102
+msgid "友链检测"
+msgstr "Friendly link check"
+
+#: inc/search-list.php:108
+msgid "备案查询"
+msgstr "ICP check"
+
+#: inc/search-list.php:114
+msgid "PING检测"
+msgstr "PING check"
+
+#: inc/search-list.php:120
+msgid "死链检测"
+msgstr "Dead link check"
+
+#: inc/search-list.php:126
+msgid "关键词挖掘"
+msgstr "Keyword digging"
+
+#: inc/search-list.php:127
+msgid "请输入关键词"
+msgstr "Enter keywords"
+
+#: inc/search-list.php:135
+msgid "社区"
+msgstr "Community"
+
+#: inc/search-list.php:139 inc/search-list.php:140
+msgid "知乎"
+msgstr "Zhihu"
+
+#: inc/search-list.php:145 inc/search-list.php:146
+msgid "微信"
+msgstr "Wechat"
+
+#: inc/search-list.php:151 inc/search-list.php:152 inc/widgets.php:788
+msgid "微博"
+msgstr "Weibo"
+
+#: inc/search-list.php:157 inc/search-list.php:158
+msgid "豆瓣"
+msgstr "Douban"
+
+#: inc/search-list.php:163
+msgid "搜外问答"
+msgstr "SeoWhy"
+
+#: inc/search-list.php:164
+msgid "SEO问答社区"
+msgstr "SEO community"
+
+#: inc/search-list.php:172
+msgid "生活"
+msgstr "Life"
+
+#: inc/search-list.php:182 inc/search-list.php:183
+msgid "京东"
+msgstr "JD"
+
+#: inc/search-list.php:188 inc/search-list.php:189
+msgid "下厨房"
+msgstr "Xiachufang"
+
+#: inc/search-list.php:194 inc/search-list.php:195
+msgid "香哈菜谱"
+msgstr "Xiangha"
+
+#: inc/search-list.php:206 inc/search-list.php:207
+msgid "快递100"
+msgstr "Kuaidi100"
+
+#: inc/search-list.php:212 inc/search-list.php:213
+msgid "去哪儿"
+msgstr "Qunar"
+
+#: inc/search-list.php:221
+msgid "求职"
+msgstr "Job"
+
+#: inc/search-list.php:225 inc/search-list.php:226
+msgid "智联招聘"
+msgstr "Zhaopin"
+
+#: inc/search-list.php:231 inc/search-list.php:232
+msgid "前程无忧"
+msgstr "51job"
+
+#: inc/search-list.php:237 inc/search-list.php:238
+msgid "拉钩网"
+msgstr "Lagou"
+
+#: inc/search-list.php:243 inc/search-list.php:244
+msgid "猎聘网"
+msgstr "Liepin"
+
+#: inc/widgets.php:8
+msgid "显示全部分类或某个分类的最新文章"
+msgstr "Show latest posts from all categories or specific category"
+
+#: inc/widgets.php:11 inc/widgets.php:102 templates/cat-list.php:40
+msgid "最新文章"
+msgstr "Latest post"
+
+#: inc/widgets.php:109 inc/widgets.php:227 inc/widgets.php:363
+#: inc/widgets.php:465 inc/widgets.php:630 inc/widgets.php:719
+#: inc/widgets.php:1088 inc/widgets.php:1197
+msgid "标题："
+msgstr "Title:"
+
+#: inc/widgets.php:113 inc/widgets.php:231 inc/widgets.php:367
+#: inc/widgets.php:469 inc/widgets.php:634 inc/widgets.php:1092
+#: inc/widgets.php:1201
+msgid "图标代码："
+msgstr "Icon code:"
+
+#: inc/widgets.php:118 inc/widgets.php:236 inc/widgets.php:372
+#: inc/widgets.php:639 inc/widgets.php:1097 inc/widgets.php:1206
+msgid "在新窗口打开标题链接"
+msgstr "Open in new window"
+
+#: inc/widgets.php:121 inc/widgets.php:239 inc/widgets.php:375
+#: inc/widgets.php:642 inc/widgets.php:1100 inc/widgets.php:1209
+msgid "显示文章数："
+msgstr "Show number of posts:"
+
+#: inc/widgets.php:125
+msgid "选择分类："
+msgstr "Select a category:"
+
+#: inc/widgets.php:126
+msgid "全部分类"
+msgstr "All categories"
+
+#: inc/widgets.php:130 inc/widgets.php:385 inc/widgets.php:647
+#: inc/widgets.php:1109
+msgid "显示缩略图"
+msgstr "Show thumbnail"
+
+#: inc/widgets.php:145
+msgid "显示所有公告"
+msgstr "Show all announcements"
+
+#: inc/widgets.php:148
+msgid "最新公告"
+msgstr "Latest announcement"
+
+#: inc/widgets.php:199
+msgid "更多"
+msgstr "More"
+
+#: inc/widgets.php:221
+msgid "站点公告"
+msgstr "Announcements"
+
+#: inc/widgets.php:255
+msgid "调用评论最多的文章"
+msgstr "Show posts with most comments"
+
+#: inc/widgets.php:258 inc/widgets.php:353
+msgid "热评文章"
+msgstr "Hot posts by comments"
+
+#: inc/widgets.php:379 inc/widgets.php:1104 inc/widgets.php:1213
+msgid "时间限定（天）："
+msgstr "Time restriction(day)"
+
+#: inc/widgets.php:400
+msgid "包含所有标签类型"
+msgstr "Including all tags"
+
+#: inc/widgets.php:403 inc/widgets.php:458
+msgid "热门标签"
+msgstr "Hot tags"
+
+#: inc/widgets.php:473
+msgid "显示数量："
+msgstr "Show amount:"
+
+#: inc/widgets.php:490
+msgid "显示相关文章"
+msgstr "Show related posts"
+
+#: inc/widgets.php:493 inc/widgets.php:622
+msgid "相关文章"
+msgstr "Related posts"
+
+#: inc/widgets.php:663
+msgid "用于侧边添加广告代码"
+msgstr "Adding ad code for sidebar"
+
+#: inc/widgets.php:666 inc/widgets.php:714
+msgid "广告位"
+msgstr "Ad spot"
+
+#: inc/widgets.php:721
+msgid "内容："
+msgstr "Contents:"
+
+#: inc/widgets.php:723
+msgid "自动分段"
+msgstr "Automatic segmentation"
+
+#: inc/widgets.php:737
+msgid "本站信息、微信、微博、QQ"
+msgstr "Our website, wechat, weibo, QQ"
+
+#: inc/widgets.php:740
+msgid "关于本站"
+msgstr "About us"
+
+#: inc/widgets.php:783
+msgid "QQ在线"
+msgstr "QQ online"
+
+#: inc/widgets.php:801
+msgid "收录网站"
+msgstr "website"
+
+#: inc/widgets.php:804
+msgid "收录 App"
+msgstr "App"
+
+#: inc/widgets.php:807 inc/widgets.php:958 search.php:14
+msgid "文章"
+msgstr "Post"
+
+#: inc/widgets.php:810
+msgid "访客"
+msgstr "Guest"
+
+#: inc/widgets.php:843
+msgid "输入链接地址"
+msgstr "Input URL"
+
+#: inc/widgets.php:852
+msgid "头像："
+msgstr "Picture:"
+
+#: inc/widgets.php:857 inc/widgets.php:995
+msgid "背景图片："
+msgstr "Background image:"
+
+#: inc/widgets.php:865
+msgid "显示社交图标"
+msgstr "Show social networks icon"
+
+#: inc/widgets.php:870
+msgid "微信二维码："
+msgstr "Wechat QR code:"
+
+#: inc/widgets.php:875
+msgid "QQ号："
+msgstr "QQ:"
+
+#: inc/widgets.php:879
+msgid "新浪微博地址："
+msgstr "Weibo:"
+
+#: inc/widgets.php:884
+msgid "GitHub地址："
+msgstr "Github:"
+
+#: inc/widgets.php:887
+msgid "留空可以隐藏对应项"
+msgstr "Options will be hidden if blank"
+
+#: inc/widgets.php:901
+msgid "只显示在正文和作者页面"
+msgstr "Show on post and author page only"
+
+#: inc/widgets.php:904
+msgid "关于作者"
+msgstr "About author"
+
+#: inc/widgets.php:945 page.php:19 single-bulletin.php:68 single.php:57
+#: template-contribute.php:21 template-links.php:46
+#: templates/content-app.php:120 templates/content-book.php:122
+#: templates/content-down.php:140 templates/content-site.php:132
+msgid "编辑"
+msgstr "Edit"
+
+#: inc/widgets.php:947
+msgid "作者"
+msgstr "Author"
+
+#: inc/widgets.php:949
+msgid "投稿者"
+msgstr "Contributor"
+
+#: inc/widgets.php:951
+msgid "订阅者"
+msgstr "Subscriber"
+
+#: inc/widgets.php:961
+msgid "评论"
+msgstr "Comments"
+
+#: inc/widgets.php:967
+msgid "获赞"
+msgstr "Like"
+
+#: inc/widgets.php:1012
+msgid "调用点击最多的文章，需开启主题设置里的“访问统计”,并有统计数据"
+msgstr ""
+"Show articles with most clicks, please enable 'visit statistics' at template "
+"setting and ensure there are visit data"
+
+#: inc/widgets.php:1015 inc/widgets.php:1078
+msgid "热门文章"
+msgstr "Hot posts"
+
+#: inc/widgets.php:1126
+msgid "调用点击最多的网址，需开启主题设置里的“访问统计”,并有统计数据"
+msgstr ""
+"Showing websites with most clicks, please enable 'visit statistics' at "
+"template setting and ensure there are visit data."
+
+#: inc/widgets.php:1129 inc/widgets.php:1187 templates/tools-hotcontent.php:13
+msgid "热门网址"
+msgstr "Hot websites"
+
+#: inc/wp-optimization.php:45
+#, php-format
+msgid "Feed已经关闭, 请访问网站<a href=\"%s\">首页"
+msgstr ""
+"Feed has been disabled, please visit home page of our website<a href=\"%s\"> "
+
+#: search.php:13
+#, php-format
+msgid "有关“%s”的网站"
+msgstr "Websites for \"%s\""
+
+#: search.php:14
+#, php-format
+msgid "有关“%s”的文章"
+msgstr "Articles for \"%s\""
+
+#: search.php:15
+#, php-format
+msgid "有关“%s”的软件"
+msgstr "Software for \"%s\""
+
+#: search.php:15
+msgid "软件"
+msgstr "Software"
+
+#: search.php:16
+#, php-format
+msgid "有关“%s”的书籍"
+msgstr "Books for \"%s\""
+
+#: search.php:16
+msgid "书籍"
+msgstr "Book"
+
+#: search.php:18
+#, php-format
+msgid "“%s”的搜索结果"
+msgstr "Search results for '%s'"
+
+#: sidebar-blog.php:7 sidebar-bulletin.php:7 sidebar.php:13 sidebar.php:26
+msgid "添加小工具"
+msgstr "Add widgets"
+
+#: sidebar-blog.php:10
+msgid "点此为“博客布局侧边栏”添加小工具"
+msgstr "Click here to add widgets to sidebar of blog"
+
+#: sidebar-bulletin.php:10
+msgid "点此为“公告侧边栏”添加小工具"
+msgstr "Click here to add widgets to sidebar of announcements"
+
+#: sidebar.php:16
+msgid "点此为“正文侧边栏”添加小工具"
+msgstr "Click here to add widgets to sidebar of posts"
+
+#: sidebar.php:29
+msgid "点此为“分类归档侧边栏”添加小工具"
+msgstr "Click here to add widgets to category pages"
+
+#: single-app.php:13
+msgid "相关软件"
+msgstr "Related apps"
+
+#: single-app.php:43 single-book.php:47 single-sites.php:51
+msgid "没有相关内容!"
+msgstr "No relevant contents!"
+
+#: single-book.php:17
+msgid "相关书籍"
+msgstr "Related books"
+
+#: single-bulletin.php:81 single-bulletin.php:87 single.php:81 single.php:87
+msgid "上一篇"
+msgstr "Prev"
+
+#: single-bulletin.php:88 single-bulletin.php:101 single.php:88 single.php:101
+msgid "没有更多了..."
+msgstr "No more..."
+
+#: single-bulletin.php:94 single-bulletin.php:100 single.php:94 single.php:100
+msgid "下一篇"
+msgstr "Next"
+
+#: single-sites.php:17
+msgid "相关导航"
+msgstr "Relevant Navigation"
+
+#: single-sites.php:81 single-sites.php:90
+msgid "链接超时，网站可能下线了，请点击直达试试"
+msgstr "Link timeouts, website may be offline, please use direct link"
+
+#: single-sites.php:85
+msgid "墙外世界需要梯子"
+msgstr "Proxy is required"
+
+#: single-sites.php:96
+msgid "链接成功:"
+msgstr "Connection succeeded:"
+
+#: single-sites.php:96
+msgid "秒"
+msgstr "Second"
+
+#: single-sites.php:115 single-sites.php:135
+msgid "网络错误"
+msgstr "Network error"
+
+#: single-sites.php:120
+msgid "查询失败"
+msgstr "Query failed"
+
+#: single.php:67
+msgid "版权声明："
+msgstr "Copyrights:"
+
+#: single.php:67
+msgid "发表于"
+msgstr "Posted on"
+
+#: single.php:68
+msgid "转载请注明："
+msgstr "Please specify source if reproduced"
+
+#: single.php:68
+msgid "本文固定链接"
+msgstr "Permanent link"
+
+#: template-bulletin.php:28
+msgid "总计："
+msgstr "Total:"
+
+#: template-bulletin.php:56
+msgid "Y年m月d日"
+msgstr "Y-m-d"
+
+#: templates/article-list.php:48 templates/article-list.php:49
+msgid "最新资讯"
+msgstr "Newest"
+
+#: templates/article-list.php:49
+msgid "所有"
+msgstr "All"
+
+#: templates/bulletin.php:21
+msgid "关闭"
+msgstr "Closed"
+
+#: templates/card-appcard.php:34
+msgid "没添加标签"
+msgstr "No tags"
+
+#: templates/card-site.php:23 templates/card-site.php:32
+#: templates/card-site.php:39 templates/card-sitemax.php:23
+#: templates/card-sitemax.php:32 templates/card-sitemax.php:39
+#: templates/card-sitemini.php:23 templates/card-sitemini.php:32
+#: templates/card-sitemini.php:39 templates/content-app.php:134
+#: templates/content-app.php:144
+msgid "下载"
+msgstr "Download"
+
+#: templates/card-site.php:25 templates/card-site.php:41
+#: templates/card-sitemax.php:25 templates/card-sitemax.php:41
+#: templates/card-sitemini.php:25 templates/card-sitemini.php:41
+#: templates/content-site.php:77
+msgid "居然没有添加二维码"
+msgstr "No QR code"
+
+#: templates/card-site.php:27 templates/card-site.php:43
+#: templates/card-sitemax.php:27 templates/card-sitemax.php:43
+#: templates/card-sitemini.php:27 templates/card-sitemini.php:43
+msgid "没有 url"
+msgstr "No URL"
+
+#: templates/card-site.php:119 templates/card-sitemax.php:149
+#: templates/card-sitemini.php:119
+msgid "直达"
+msgstr "Direct link"
+
+#: templates/cat-list.php:15 templates/content-site.php:84
+msgid "标签："
+msgstr "Tags:"
+
+#: templates/cat-list.php:23
+msgid "作者："
+msgstr "Author:"
+
+#: templates/cat-list.php:26
+msgid "我还没有学会写个人说明！"
+msgstr "I don't know how to write bio!"
+
+#: templates/content-app.php:28 templates/content-app.php:142
+#: templates/title.php:59
+msgid "官方版"
+msgstr "Official"
+
+#: templates/content-app.php:28 templates/content-app.php:142
+#: templates/title.php:59
+msgid "开心版"
+msgstr "Cracked"
+
+#: templates/content-app.php:29 templates/title.php:59
+msgid "有广告"
+msgstr "With ad"
+
+#: templates/content-app.php:29 templates/title.php:59
+msgid "无广告"
+msgstr "Without ad"
+
+#: templates/content-app.php:33 templates/content-down.php:58
+msgid "更新日期："
+msgstr "Last update:"
+
+#: templates/content-app.php:34 templates/content-down.php:59
+msgid "分类标签："
+msgstr "Tags:"
+
+#: templates/content-app.php:35
+msgid "语言："
+msgstr "Language:"
+
+#: templates/content-app.php:36 templates/content-down.php:60
+msgid "平台："
+msgstr "Platform:"
+
+#: templates/content-app.php:36 templates/content-down.php:60
+msgid "没限制"
+msgstr "No restriction"
+
+#: templates/content-app.php:44 templates/content-down.php:67
+msgid "立即下载"
+msgstr "Download now"
+
+#: templates/content-app.php:46 templates/content-down.php:69
+msgid "赞"
+msgstr "Like"
+
+#: templates/content-app.php:50 templates/content-app.php:125
+msgid "历史版本"
+msgstr "History versions"
+
+#: templates/content-app.php:52 templates/content-down.php:74
+msgid "人已下载"
+msgstr "Already downloaded"
+
+#: templates/content-app.php:58 templates/content-down.php:80
+#: templates/content-site.php:73
+msgid "手机查看"
+msgstr "Mobile view"
+
+#: templates/content-app.php:77 templates/content-app.php:79
+#: templates/content-app.php:81 templates/content-down.php:98
+#: templates/content-down.php:100 templates/content-down.php:102
+#, php-format
+msgid "%s的使用截图"
+msgstr "%s usage screenshot"
+
+#: templates/content-app.php:119 templates/content-down.php:139
+msgid "去官方网站了解更多"
+msgstr "Learn more by visiting official website"
+
+#: templates/content-app.php:129
+msgid "版本"
+msgstr "Version"
+
+#: templates/content-app.php:130
+msgid "日期"
+msgstr "Date"
+
+#: templates/content-app.php:131
+msgid "大小"
+msgstr "Size"
+
+#: templates/content-app.php:132
+msgid "状态"
+msgstr "Status"
+
+#: templates/content-app.php:133
+msgid "语言"
+msgstr "Language"
+
+#: templates/content-app.php:139
+msgid "最新"
+msgstr "Newest"
+
+#: templates/content-app.php:164 templates/content-book.php:130
+#: templates/content-down.php:148
+msgid "下载地址: "
+msgstr "Download link:"
+
+#: templates/content-app.php:176 templates/content-book.php:152
+#: templates/content-down.php:176
+msgid "声明："
+msgstr "Declaration:"
+
+#: templates/content-book.php:46 templates/content-site.php:32
+msgid "点赞"
+msgstr "Like"
+
+#: templates/content-book.php:89
+msgid "标签"
+msgstr "Tag"
+
+#: templates/content-book.php:90
+msgid "丛书"
+msgstr "Series"
+
+#: templates/content-book.php:99
+msgid "下载电子书"
+msgstr "Download eBook"
+
+#: templates/content-down.php:73
+msgid "大小未知"
+msgstr "Unknown size"
+
+#: templates/content-down.php:168
+msgid "没有添加下载地址，请到文章下方找到官网地址去下载，感谢！"
+msgstr "Please go to the official website to download, thanks!"
+
+#: templates/content-down.php:171
+msgid "解压密码："
+msgstr "Uncompression password:"
+
+#: templates/content-site.php:80
+msgid "小程序"
+msgstr "Applet"
+
+#: templates/content-site.php:89
+msgid "链接直达"
+msgstr "Direct link"
+
+#: templates/content-site.php:96
+msgid "其他站点:"
+msgstr "Other sites:"
+
+#: templates/friendlink.php:5
+msgid "友情链接"
+msgstr "Friendly link"
+
+#: templates/friendlink.php:21
+msgid "更多链接"
+msgstr "More links"
+
+#: templates/search/big.php:19 templates/search/default.php:31
+#: templates/search/mini.php:8 templates/search/modal.php:31
+msgid "输入关键字搜索"
+msgstr "Search keyword"
+
+#: templates/title.php:18
+#, php-format
+msgid "%s的搜索结果"
+msgstr "Search results for %s"
+
+#: templates/title.php:116
+#, php-format
+msgid "“%s”年所有文章"
+msgstr "All articles in \"%s\""
+
+#: templates/title.php:117
+#, php-format
+msgid "“%s”份所有文章"
+msgstr "All articles in \"%s\""
+
+#: templates/title.php:118
+#, php-format
+msgid "“%s”所有文章"
+msgstr "All articles in \"%s\""
+
+#: templates/title.php:118
+msgid "Y年n月j日"
+msgstr "Y/n/j"
+
+#: templates/title.php:119
+#, php-format
+msgid "“%s”发表的所有文章"
+msgstr "All articles by \"%s\""
+
+#: templates/title.php:120
+msgid "没有你要找的内容"
+msgstr "Sorry, the contents you're searching don't esixt..."
+
+#: templates/tools-customize.php:7
+msgid "我的导航"
+msgstr "My nav"
+
+#: templates/tools-customize.php:9
+msgid "最近点击"
+msgstr "Recent clicks"
+
+#: templates/tools-customize.php:31
+msgid "没有数据！点右上角编辑添加网址"
+msgstr "No data! Please add website by click top right corner "
+
+#: templates/tools-customize.php:63
+msgid "没有数据！等待你的参与哦 ^_^"
+msgstr "No data! Waiting for your participation"
+
+#: templates/tools-customize.php:73
+msgid "添加自定义网址"
+msgstr "Add custom website"
+
+#: templates/tools-customize.php:75
+msgid "网站名称"
+msgstr "Website name"
+
+#: templates/tools-customize.php:78
+msgid "添加"
+msgstr "Add"
+
+#: templates/tools-customize.php:79
+msgid "取消"
+msgstr "Cancel"
+
+#: templates/tools-hotcontent.php:17
+msgid "大家喜欢"
+msgstr "We love it"
+
+#: templates/tools-hotcontent.php:21
+msgid "最新网址"
+msgstr "Newest website"
+
+#: templates/tools-hotcontent.php:25
+msgid "热门 App"
+msgstr "Hot APP"
+
+#: templates/tools-hotcontent.php:29
+msgid "最爱 App"
+msgstr "Favorite App"
+
+#: templates/tools-hotcontent.php:33
+msgid "最新 App"
+msgstr "Newest App"
+
+#: templates/tools-hotcontent.php:37
+msgid "下载最多 APP"
+msgstr "Hot download"
+
+#: templates/tools-hotcontent.php:41
+msgid "热门书籍"
+msgstr "Hot books"
+
+#: templates/tools-hotcontent.php:45
+msgid "最爱书籍"
+msgstr "Favorite books"
+
+#: templates/tools-hotcontent.php:49
+msgid "最新书籍"
+msgstr "Newest books"
+
+#~ msgid "可见性"
+#~ msgstr "Visibility"
+
+#~ msgid "管理员"
+#~ msgstr "Admin"
+
+#~ msgid "提取码："
+#~ msgstr "Extract code:"
+
+#~ msgid "主菜单"
+#~ msgstr "Sidebar menu"
+
+#~ msgid "网盘下载"
+#~ msgstr "Download from file sharing websites"
+
+#~ msgid "备用地址"
+#~ msgstr "Spare URL"
+
+#~ msgid "热门下载"
+#~ msgstr "Hot download"

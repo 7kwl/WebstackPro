@@ -1,0 +1,1050 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-02-25 07:33+0800\n"
+"PO-Revision-Date: 2020-02-25 07:33+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: theme-settings.php\n"
+
+#: theme-settings.php:7
+msgid "主题设置"
+msgstr "Theme settings"
+
+#: theme-settings.php:28
+msgid "图标设置"
+msgstr ""
+
+#: theme-settings.php:30
+msgid "网站LOGO和Favicon设置"
+msgstr "Website logo and favicon settings"
+
+#: theme-settings.php:36 theme-settings.php:47 theme-settings.php:58
+#: theme-settings.php:69 theme-settings.php:80 theme-settings.php:90
+#: theme-settings.php:555
+msgid "上传"
+msgstr ""
+
+#: theme-settings.php:37 theme-settings.php:48
+msgid "建议高80px，长小于360px"
+msgstr ""
+
+#: theme-settings.php:46
+msgid "亮色主题Logo"
+msgstr ""
+
+#: theme-settings.php:57
+msgid "方形 Logo"
+msgstr ""
+
+#: theme-settings.php:59 theme-settings.php:70
+msgid "建议 80x80"
+msgstr ""
+
+#: theme-settings.php:68
+msgid "亮色主题方形 Logo"
+msgstr ""
+
+#: theme-settings.php:79
+msgid "上传 Favicon"
+msgstr ""
+
+#: theme-settings.php:89
+msgid "上传 apple_icon"
+msgstr ""
+
+#: theme-settings.php:104
+msgid "基础设置"
+msgstr ""
+
+#: theme-settings.php:110
+msgid "颜色主题"
+msgstr ""
+
+#: theme-settings.php:114
+msgid "暗色"
+msgstr ""
+
+#: theme-settings.php:115
+msgid "黑白"
+msgstr ""
+
+#: theme-settings.php:116
+msgid "亮灰"
+msgstr ""
+
+#: theme-settings.php:118
+msgid ""
+"如果在前台通过“主题切换开关”手动切换主题，此设置无效，或者清除浏览器"
+"cookie才能生效"
+msgstr ""
+
+#: theme-settings.php:123
+msgid "详情页"
+msgstr ""
+
+#: theme-settings.php:124
+msgid "启用网址详情页"
+msgstr ""
+
+#: theme-settings.php:125
+msgid "关闭状态为网址块直接跳转到目标网址。"
+msgstr ""
+
+#: theme-settings.php:126
+msgid ""
+"<strong>“公众号”</strong>和<strong>“下载资源”</strong>默认开启详情"
+"页，不受此选项限制。"
+msgstr ""
+
+#: theme-settings.php:132
+msgid "直达按钮"
+msgstr ""
+
+#: theme-settings.php:133
+msgid "网址块显示直达按钮"
+msgstr ""
+
+#: theme-settings.php:140
+msgid "显示网址链接速度(死链)"
+msgstr ""
+
+#: theme-settings.php:141
+msgid "在网址详情页显示目标网址的链接速度、国家地址等信息"
+msgstr ""
+
+#: theme-settings.php:142
+msgid "为网址失效状态提供数据来源<br>前台 JS 检测，不影响服务器性能"
+msgstr ""
+
+#: theme-settings.php:149
+msgid "网址失效状态(死链)"
+msgstr ""
+
+#: theme-settings.php:150
+msgid "详情页检测链接失败几次后提示管理员检测网址有效性<br>0为关闭提示"
+msgstr ""
+
+#: theme-settings.php:157
+msgid "新标签打开内链"
+msgstr ""
+
+#: theme-settings.php:158
+msgid "站点所有内部链接在新标签中打开"
+msgstr ""
+
+#: theme-settings.php:164
+msgid "访问统计"
+msgstr ""
+
+#: theme-settings.php:165
+msgid "启用前先禁用WP-PostViews插件，因为主题已经集成WP-PostViews插件"
+msgstr ""
+
+#: theme-settings.php:166
+msgid "如果开启没显示数字，去后台 <a href=\""
+msgstr ""
+
+#: theme-settings.php:172
+msgid "访问基数"
+msgstr ""
+
+#: theme-settings.php:173
+msgid ""
+"随机访问基数，取值范围：(0~10)*访问基数<br>设置大于0的整数启用，会导"
+"致访问统计虚假，酌情开启，关闭请填0"
+msgstr ""
+
+#: theme-settings.php:180
+msgid "访问随机计数"
+msgstr ""
+
+#: theme-settings.php:181
+msgid ""
+"访问一次随机增加访问次数，比如访问一次，增加5次<br>取值范围：(1~10)*"
+"访问随机数<br>设置大于0的数字启用，可以是小数，如：0.5，但小于0.5会导"
+"致取0值<br>会导致访问统计虚假，酌情开启，关闭请填0"
+msgstr ""
+
+#: theme-settings.php:188
+msgid "点赞基数"
+msgstr ""
+
+#: theme-settings.php:189
+msgid ""
+"随机点赞基数，取值范围：(0~10)*点赞基数<br>设置大于0的整数启用，会导"
+"致点赞统计虚假，酌情开启，关闭请填0"
+msgstr ""
+
+#: theme-settings.php:195
+msgid "内链跳转"
+msgstr ""
+
+#: theme-settings.php:201
+msgid "本地化外链图片"
+msgstr ""
+
+#: theme-settings.php:202
+msgid "自动存储外链图片到本地服务器"
+msgstr ""
+
+#: theme-settings.php:203
+msgid ""
+"只支持经典编辑器<br><strong>注：</strong>使用古腾堡(区块)编辑器的请不"
+"要开启，否则无法保存文章"
+msgstr ""
+
+#: theme-settings.php:209
+msgid "图标懒加载"
+msgstr ""
+
+#: theme-settings.php:210
+msgid "所有图片懒加载"
+msgstr ""
+
+#: theme-settings.php:220
+msgid "首页设置"
+msgstr ""
+
+#: theme-settings.php:226
+msgid "网址块弹窗提示"
+msgstr ""
+
+#: theme-settings.php:227
+msgid "网址块默认的弹窗提示内容"
+msgstr ""
+
+#: theme-settings.php:231
+msgid "无"
+msgstr ""
+
+#: theme-settings.php:232
+msgid "链接"
+msgstr ""
+
+#: theme-settings.php:233
+msgid "简介"
+msgstr ""
+
+#: theme-settings.php:234
+msgid "二维码"
+msgstr ""
+
+#: theme-settings.php:236
+msgid "如果网址添加了自定义二维码，此设置无效"
+msgstr ""
+
+#: theme-settings.php:241
+msgid "网址列数"
+msgstr ""
+
+#: theme-settings.php:242
+msgid "网址块列表一行显示的个数"
+msgstr ""
+
+#: theme-settings.php:255
+msgid "小屏显示两列"
+msgstr ""
+
+#: theme-settings.php:256
+msgid "手机等小屏幕显示两列"
+msgstr ""
+
+#: theme-settings.php:262
+msgid "网址数量"
+msgstr ""
+
+#: theme-settings.php:267
+msgid "首页分类下显示的网址数量"
+msgstr ""
+
+#: theme-settings.php:273
+msgid "启用公告"
+msgstr ""
+
+#: theme-settings.php:274
+msgid "启用自定义文章类型“公告”，启用后刷新页面"
+msgstr ""
+
+#: theme-settings.php:280
+msgid "显示公告"
+msgstr ""
+
+#: theme-settings.php:281
+msgid "在首页顶部显示公告"
+msgstr ""
+
+#: theme-settings.php:288
+msgid "公告数量"
+msgstr ""
+
+#: theme-settings.php:289
+msgid "需要显示的公告篇数"
+msgstr ""
+
+#: theme-settings.php:299
+msgid "公告归档页"
+msgstr ""
+
+#: theme-settings.php:300
+msgid " 如果没有，新建页面，选择“所有公告”模板并保存。"
+msgstr ""
+
+#: theme-settings.php:302
+msgid "选择公告归档页面"
+msgstr ""
+
+#: theme-settings.php:308
+msgid "搜索位置"
+msgstr ""
+
+#: theme-settings.php:312
+msgid "默认位置"
+msgstr ""
+
+#: theme-settings.php:313 theme-settings.php:586
+msgid "头部"
+msgstr ""
+
+#: theme-settings.php:314
+msgid "页脚小工具"
+msgstr ""
+
+#: theme-settings.php:316
+msgid "默认位置在首页内容前面和分类内容前面显示搜索框"
+msgstr ""
+
+#: theme-settings.php:321
+msgid "文章模块"
+msgstr ""
+
+#: theme-settings.php:322
+msgid "头部启用文章模块"
+msgstr ""
+
+#: theme-settings.php:328
+msgid "幻灯片数量"
+msgstr ""
+
+#: theme-settings.php:333
+msgid "显示置顶的文章，请把需要显示的文章置顶。"
+msgstr ""
+
+#: theme-settings.php:339
+msgid "两篇文章"
+msgstr ""
+
+#: theme-settings.php:340
+msgid ""
+"自定义文章模块中间的两篇文章，留空则随机展示。<br>填写两个文章id，用"
+"英语逗号分开，如：11,100"
+msgstr ""
+
+#: theme-settings.php:346
+msgid "博客页面"
+msgstr ""
+
+#: theme-settings.php:347
+msgid ""
+" 如果没有，新建页面，选择“博客页面”模板并保存。<br>用于最新资讯旁边"
+"的“所有”按钮。"
+msgstr ""
+
+#: theme-settings.php:349
+msgid "选择一个页面"
+msgstr ""
+
+#: theme-settings.php:355
+msgid "资讯列表排除分类"
+msgstr ""
+
+#: theme-settings.php:356
+msgid "填写分类id，用英语逗号分开，如：11,100<br>文章分类id列表："
+msgstr ""
+
+#: theme-settings.php:362
+msgid "首页显示文章分类"
+msgstr ""
+
+#: theme-settings.php:363
+msgid ""
+"在首页显示文章分类卡片<br>填写分类id，用英语逗号分开，如：11,100<br>"
+"文章分类id列表："
+msgstr ""
+
+#: theme-settings.php:368
+msgid "自定义网址（我的导航）"
+msgstr ""
+
+#: theme-settings.php:369
+msgid ""
+"显示游客自定义网址模块，允许游客自己添加网址和记录最近点击，数据保存"
+"于游客电脑。"
+msgstr ""
+
+#: theme-settings.php:375
+msgid "预设网址（我的导航）"
+msgstr ""
+
+#: theme-settings.php:376
+msgid ""
+"自定义网址模块添加预设网址，首页“我的导航”模块预设网址<br>例："
+"1,22,33,44 用英语逗号分开"
+msgstr ""
+
+#: theme-settings.php:383
+msgid "最近点击"
+msgstr ""
+
+#: theme-settings.php:384
+msgid "最近点击网址记录的最大数量"
+msgstr ""
+
+#: theme-settings.php:394
+msgid "热门网址"
+msgstr ""
+
+#: theme-settings.php:395
+msgid "显示热门网址模块，需开启访问统计，并产生了访问和点赞数据"
+msgstr ""
+
+#: theme-settings.php:401
+msgid "mini网址块"
+msgstr ""
+
+#: theme-settings.php:402
+msgid "显示热门网址启用mini网址块"
+msgstr ""
+
+#: theme-settings.php:409
+msgid "热门网址数量"
+msgstr ""
+
+#: theme-settings.php:419
+msgid "tab模式"
+msgstr ""
+
+#: theme-settings.php:420
+msgid "首页使用标签模式展示2级收藏网址"
+msgstr ""
+
+#: theme-settings.php:426
+msgid "父级名称"
+msgstr ""
+
+#: theme-settings.php:427
+msgid "网址块分类名前面显示父级分类名称"
+msgstr ""
+
+#: theme-settings.php:433
+msgid "启用友链"
+msgstr ""
+
+#: theme-settings.php:434
+msgid "启用自定义文章类型“链接(友情链接)”，启用后需刷新页面"
+msgstr ""
+
+#: theme-settings.php:440
+msgid "友情链接"
+msgstr ""
+
+#: theme-settings.php:441
+msgid "在首页底部添加友情链接"
+msgstr ""
+
+#: theme-settings.php:452
+msgid "网址设置"
+msgstr ""
+
+#: theme-settings.php:458 theme-settings.php:479
+msgid "网址卡片样式"
+msgstr ""
+
+#: theme-settings.php:465
+msgid "选择首页网址块显示风格：大、中、小"
+msgstr ""
+
+#: theme-settings.php:473
+msgid "app设置"
+msgstr ""
+
+#: theme-settings.php:485
+msgid "选择首页app块显示风格"
+msgstr ""
+
+#: theme-settings.php:490
+msgid "app默认截图"
+msgstr ""
+
+#: theme-settings.php:491
+msgid "添加"
+msgstr ""
+
+#: theme-settings.php:492
+msgid "app截图为空时显示这项设置的内容"
+msgstr ""
+
+#: theme-settings.php:505
+msgid "页脚设置"
+msgstr ""
+
+#: theme-settings.php:511
+msgid "备案号"
+msgstr ""
+
+#: theme-settings.php:518
+msgid "自定义页脚版权"
+msgstr ""
+
+#: theme-settings.php:525
+msgid "下载页版权声明"
+msgstr ""
+
+#: theme-settings.php:526
+msgid ""
+"本站大部分下载资源收集于网络，只做学习和交流使用，版权归原作者所有。"
+"若您需要使用非免费的软件或服务，请购买正版授权并合法使用。本站发布的"
+"内容若侵犯到您的权益，请联系站长删除，我们将及时处理。"
+msgstr ""
+
+#: theme-settings.php:535
+msgid "SEO设置"
+msgstr ""
+
+#: theme-settings.php:537
+msgid ""
+"主题seo获取规则：<br>标题：页面、文章的标题<br>关键词：默认获取文章的"
+"标签，如果没有，则为标题加网址名称<br>描叙：默认获取文章简介"
+msgstr ""
+
+#: theme-settings.php:542
+msgid "首页关键词"
+msgstr ""
+
+#: theme-settings.php:543
+msgid "其他页面如果获取不到关键词，默认调取此设置"
+msgstr ""
+
+#: theme-settings.php:548
+msgid "首页描述"
+msgstr ""
+
+#: theme-settings.php:549
+msgid "其他页面如果获取不到描述，默认调取此设置"
+msgstr ""
+
+#: theme-settings.php:554
+msgid "og 标签默认图片"
+msgstr ""
+
+#: theme-settings.php:556
+msgid ""
+"QQ、微信分享时显示的缩略图<br>主题会默认获取文章、网址等内容的图片，"
+"但是如果内容没有图片，则获取此设置"
+msgstr ""
+
+#: theme-settings.php:569
+msgid "其他功能"
+msgstr ""
+
+#: theme-settings.php:575
+msgid "天气"
+msgstr ""
+
+#: theme-settings.php:576
+msgid "显示天气小工具"
+msgstr ""
+
+#: theme-settings.php:582
+msgid "天气位置"
+msgstr ""
+
+#: theme-settings.php:583
+msgid "footer"
+msgstr ""
+
+#: theme-settings.php:587
+msgid "右下小工具"
+msgstr ""
+
+#: theme-settings.php:594
+msgid "一言"
+msgstr ""
+
+#: theme-settings.php:595
+msgid "右上角显示一言"
+msgstr ""
+
+#: theme-settings.php:601
+msgid "阿里图标"
+msgstr ""
+
+#: theme-settings.php:602
+msgid "fa 和阿里图标二选一，为轻量化资源，不能共用。"
+msgstr ""
+
+#: theme-settings.php:608
+msgid "fontawesome CDN"
+msgstr ""
+
+#: theme-settings.php:609
+msgid "fa图标库使用CDN，cdn地址修改请在 inc\\register.php 文件里修改。"
+msgstr ""
+
+#: theme-settings.php:616
+msgid "阿里图标库地址"
+msgstr ""
+
+#: theme-settings.php:623
+msgid "投稿直接发布"
+msgstr ""
+
+#: theme-settings.php:624
+msgid "游客投稿的“网址”不需要审核直接发布"
+msgstr ""
+
+#: theme-settings.php:630
+msgid "游客投稿分类"
+msgstr ""
+
+#: theme-settings.php:631
+msgid ""
+"不审核直接发布到指定分类，如果设置此项，前台投稿页的分类选择将失效。"
+msgstr ""
+
+#: theme-settings.php:632
+msgid "选择分类"
+msgstr ""
+
+#: theme-settings.php:639
+msgid "下面的功能尽量不要动，出问题了点击上方“重置部分”重置此页设置"
+msgstr ""
+
+#: theme-settings.php:644
+msgid "图标源设置"
+msgstr ""
+
+#: theme-settings.php:645
+msgid "自建图标源api源码地址："
+msgstr ""
+
+#: theme-settings.php:650
+msgid "不包含 http(s)://"
+msgstr ""
+
+#: theme-settings.php:652
+msgid ""
+"根据图标源 api 要求设置，如果api要求不能包含协议名称，请开启此选项"
+msgstr ""
+
+#: theme-settings.php:657
+msgid "图标源"
+msgstr ""
+
+#: theme-settings.php:659
+msgid "api 地址"
+msgstr ""
+
+#: theme-settings.php:664
+msgid "图标源api后缀"
+msgstr ""
+
+#: theme-settings.php:666
+msgid "如：.png ,请根据api格式要求设置，如不需要请留空"
+msgstr ""
+
+#: theme-settings.php:673
+msgid "二维码api"
+msgstr ""
+
+#: theme-settings.php:674
+msgid "可用二维码api源地址："
+msgstr ""
+
+#: theme-settings.php:681
+msgid "博客随机头部图片"
+msgstr ""
+
+#: theme-settings.php:682
+msgid "缩略图、文章页随机图片"
+msgstr ""
+
+#: theme-settings.php:683
+msgid ""
+"一行一个图片地址，注意不要有空格<br>如果站点使用了图床、cdn等，请将域"
+"名添加到主题根目录timthumb.php文件的第130行下面。"
+msgstr ""
+
+#: theme-settings.php:701
+msgid "自定义 CSS,自定义美化...<br>如："
+msgstr ""
+
+#: theme-settings.php:701 theme-settings.php:713
+msgid "注意："
+msgstr ""
+
+#: theme-settings.php:701
+msgid "不要填写"
+msgstr ""
+
+#: theme-settings.php:713
+msgid "出现在网站底部 body 前。"
+msgstr ""
+
+#: theme-settings.php:713
+msgid "必须填写"
+msgstr ""
+
+#: theme-settings.php:727
+msgid "添加广告"
+msgstr ""
+
+#: theme-settings.php:735
+msgid "首页广告"
+msgstr ""
+
+#: theme-settings.php:741
+msgid "首页顶部广告位"
+msgstr ""
+
+#: theme-settings.php:747
+msgid "首页顶部广告位在移动端显示"
+msgstr ""
+
+#: theme-settings.php:754
+msgid "首页顶部广告位2"
+msgstr ""
+
+#: theme-settings.php:755 theme-settings.php:802 theme-settings.php:849
+msgid "大屏并排显示2个广告位，小屏幕自动隐藏"
+msgstr ""
+
+#: theme-settings.php:762
+msgid "首页顶部广告位内容"
+msgstr ""
+
+#: theme-settings.php:773
+msgid "首页顶部广告位2内容"
+msgstr ""
+
+#: theme-settings.php:774
+msgid "首页顶部第二个广告位的内容"
+msgstr ""
+
+#: theme-settings.php:787
+msgid "首页网址块上方广告位"
+msgstr ""
+
+#: theme-settings.php:788
+msgid "网址块上方广告位"
+msgstr ""
+
+#: theme-settings.php:794 theme-settings.php:841
+msgid "在移动端显示"
+msgstr ""
+
+#: theme-settings.php:801
+msgid "广告位2"
+msgstr ""
+
+#: theme-settings.php:809
+msgid "广告位内容"
+msgstr ""
+
+#: theme-settings.php:820
+msgid "广告位2内容"
+msgstr ""
+
+#: theme-settings.php:821 theme-settings.php:868
+msgid "第二个广告位的内容"
+msgstr ""
+
+#: theme-settings.php:834
+msgid "友链上方广告位"
+msgstr ""
+
+#: theme-settings.php:835
+msgid "首页底部友链上方广告位"
+msgstr ""
+
+#: theme-settings.php:848
+msgid "友链上方广告位2"
+msgstr ""
+
+#: theme-settings.php:856
+msgid "友链上方广告位内容"
+msgstr ""
+
+#: theme-settings.php:867
+msgid "友链上方广告位2内容"
+msgstr ""
+
+#: theme-settings.php:883
+msgid "全站 footer 位广告"
+msgstr ""
+
+#: theme-settings.php:889
+msgid "footer 广告位内容"
+msgstr ""
+
+#: theme-settings.php:904
+msgid "文章广告"
+msgstr ""
+
+#: theme-settings.php:910
+msgid "详情页右边广告位"
+msgstr ""
+
+#: theme-settings.php:916
+msgid "详情页右边广告位内容"
+msgstr ""
+
+#: theme-settings.php:927
+msgid "app详情页广告位"
+msgstr ""
+
+#: theme-settings.php:933
+msgid "app详情页广告位内容"
+msgstr ""
+
+#: theme-settings.php:944
+msgid "文章内广告短代码"
+msgstr ""
+
+#: theme-settings.php:950
+msgid "在文章中添加短代码 [ad] 即可调用"
+msgstr ""
+
+#: theme-settings.php:954
+msgid "正文标题广告位"
+msgstr ""
+
+#: theme-settings.php:959
+msgid "输入正文标题广告代码"
+msgstr ""
+
+#: theme-settings.php:970
+msgid "正文底部广告位"
+msgstr ""
+
+#: theme-settings.php:976
+msgid "输入正文底部广告代码"
+msgstr ""
+
+#: theme-settings.php:988
+msgid "评论上方广告位"
+msgstr ""
+
+#: theme-settings.php:993
+msgid "输入评论上方广告代码"
+msgstr ""
+
+#: theme-settings.php:1010
+msgid "优化设置"
+msgstr ""
+
+#: theme-settings.php:1019
+msgid "禁用功能"
+msgstr ""
+
+#: theme-settings.php:1026
+msgid "禁用REST API"
+msgstr ""
+
+#: theme-settings.php:1027
+msgid ""
+"禁用REST API、移除wp-json链接（默认关闭，如果你的网站没有做小程序或是"
+"APP，建议禁用REST API）"
+msgstr ""
+
+#: theme-settings.php:1035
+msgid "禁用文章修订功能"
+msgstr ""
+
+#: theme-settings.php:1036
+msgid "禁用文章修订功能，精简 Posts 表数据。"
+msgstr ""
+
+#: theme-settings.php:1044
+msgid "禁用字符转码"
+msgstr ""
+
+#: theme-settings.php:1045
+msgid "禁用字符换成格式化的 HTML 实体功能。"
+msgstr ""
+
+#: theme-settings.php:1052
+msgid "禁用站点Feed"
+msgstr ""
+
+#: theme-settings.php:1053
+msgid "禁用站点Feed，防止文章快速被采集。"
+msgstr ""
+
+#: theme-settings.php:1060
+msgid "禁用Trackbacks"
+msgstr ""
+
+#: theme-settings.php:1061
+msgid ""
+"Trackbacks协议被滥用，会给博客产生大量垃圾留言，建议彻底关闭"
+"Trackbacks。"
+msgstr ""
+
+#: theme-settings.php:1068
+msgid "禁用古腾堡编辑器"
+msgstr ""
+
+#: theme-settings.php:1069
+msgid "禁用Gutenberg编辑器，换回经典编辑器。"
+msgstr ""
+
+#: theme-settings.php:1076
+msgid "禁用XML-RPC"
+msgstr ""
+
+#: theme-settings.php:1077
+msgid ""
+"XML-RPC协议用于客户端发布文章，如果你只是在后台发布，可以关闭XML-RPC"
+"功能。Gutenberg编辑器需要XML-RPC功能。"
+msgstr ""
+
+#: theme-settings.php:1085
+msgid "禁用后台隐私（GDPR）"
+msgstr ""
+
+#: theme-settings.php:1086
+msgid ""
+"GDPR（General Data Protection Regulation）是欧洲的通用数据保护条例，"
+"WordPress为了适应该法律，在后台设置很多隐私功能，如果只是在国内运营博"
+"客，可以移除后台隐私相关的页面。"
+msgstr ""
+
+#: theme-settings.php:1092
+msgid "禁用emoji代码"
+msgstr ""
+
+#: theme-settings.php:1093
+msgid ""
+"WordPress 为了兼容在一些比较老旧的浏览器能够显示 Emoji 表情图标，而准"
+"备的功能。"
+msgstr ""
+
+#: theme-settings.php:1099
+msgid "禁用Auto Embeds"
+msgstr ""
+
+#: theme-settings.php:1100
+msgid ""
+"禁用 Auto Embeds 功能，加快页面解析速度。 Auto Embeds 支持的网站大部"
+"分都是国外的网站，建议禁用。"
+msgstr ""
+
+#: theme-settings.php:1106
+msgid "禁用文章Embed"
+msgstr ""
+
+#: theme-settings.php:1107
+msgid "禁用可嵌入其他 WordPress 文章的Embed功能"
+msgstr ""
+
+#: theme-settings.php:1118
+msgid "优化加速"
+msgstr ""
+
+#: theme-settings.php:1125
+msgid "移除头部代码"
+msgstr ""
+
+#: theme-settings.php:1126
+msgid ""
+"WordPress会在页面的头部输出了一些link和meta标签代码，这些代码没什么作"
+"用，并且存在安全隐患，建议移除WordPress页面头部中无关紧要的代码。"
+msgstr ""
+
+#: theme-settings.php:1133
+msgid "移除admin bar"
+msgstr ""
+
+#: theme-settings.php:1134
+msgid ""
+"WordPress用户登陆的情况下会出现Admin Bar，此选项可以帮助你全局移除工"
+"具栏，所有人包括管理员都看不到。"
+msgstr ""
+
+#: theme-settings.php:1140
+msgid "去除分类标志"
+msgstr ""
+
+#: theme-settings.php:1141
+msgid ""
+"去除链接中的分类category标志，有利于SEO优化，每次开启或关闭此功能，都"
+"需要重新保存一下固定链接！"
+msgstr ""
+
+#: theme-settings.php:1147
+msgid "前台不加载语言包"
+msgstr ""
+
+#: theme-settings.php:1148
+msgid "前台不加载语言包，节省加载语言包所需的0.1-0.5秒。"
+msgstr ""
+
+#: theme-settings.php:1158
+msgid "使用Gravatar默认服务器"
+msgstr ""
+
+#: theme-settings.php:1159
+msgid "使用v2ex镜像加速服务"
+msgstr ""
+
+#: theme-settings.php:1165
+msgid "移除帮助按钮"
+msgstr ""
+
+#: theme-settings.php:1166
+msgid "移除后台界面右上角的帮助"
+msgstr ""
+
+#: theme-settings.php:1172
+msgid "移除选项按钮"
+msgstr ""
+
+#: theme-settings.php:1173
+msgid "移除后台界面右上角的选项"
+msgstr ""
+
+#: theme-settings.php:1179
+msgid "禁用 admin"
+msgstr ""
+
+#: theme-settings.php:1180
+msgid "禁止使用 admin 用户名尝试登录 WordPress。"
+msgstr ""
+
+#: theme-settings.php:1186
+msgid "压缩 html 源码"
+msgstr ""
+
+#: theme-settings.php:1187
+msgid ""
+"压缩网站源码，提高加载速度。（如果启用发现网站布局错误，请禁用。）"
+msgstr ""
+
+#: theme-settings.php:1198
+msgid "备份设置"
+msgstr ""
+
+#: theme-settings.php:1200
+msgid ""
+"仅能保存主题设置，不能保存整站数据。（此操作可能会清除设置数据，请谨"
+"慎操作）"
+msgstr ""

@@ -1,0 +1,2958 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WebStacks PRO\n"
+"POT-Creation-Date: 2020-03-05 04:55+0800\n"
+"PO-Revision-Date: 2020-02-25 06:10+0800\n"
+"Last-Translator: \n"
+"Language-Team: iowen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: inc/framework\n"
+
+#: 404.php:20
+msgid "抱歉，没有你要找的内容..."
+msgstr ""
+
+#: 404.php:22
+msgid "返回首页"
+msgstr ""
+
+#: comments.php:18
+msgid "暂无评论"
+msgstr ""
+
+#: comments.php:18
+msgid "1 条评论"
+msgstr ""
+
+#: comments.php:18
+msgid "% 条评论"
+msgstr ""
+
+#: comments.php:28
+msgid "您必须登录才能参与评论！"
+msgstr ""
+
+#: comments.php:29
+msgid "立即登录"
+msgstr ""
+
+#: comments.php:37
+msgid "退出"
+msgstr ""
+
+#: comments.php:47
+msgid "输入评论内容..."
+msgstr ""
+
+#: comments.php:51
+msgid "昵称"
+msgstr ""
+
+#: comments.php:52
+msgid "邮箱"
+msgstr ""
+
+#: comments.php:53 inc/post-type.php:8 inc/post-type.php:9
+#: inc/post-type.php:10 inc/post-type.php:11 search.php:13
+msgid "网址"
+msgstr ""
+
+#: comments.php:57
+msgid "再想想"
+msgstr ""
+
+#: comments.php:58
+msgid "发表评论"
+msgstr ""
+
+#: comments.php:68
+msgid "评论已关闭..."
+msgstr ""
+
+#: comments.php:81
+msgid "暂无评论..."
+msgstr ""
+
+#: footer.php:22
+msgid "夜间模式"
+msgstr ""
+
+#: footer.php:46
+msgid "热门推荐："
+msgstr ""
+
+#: functions.php:93
+msgid "先保存一遍主题设置选项，否则会报错"
+msgstr ""
+
+#: functions.php:123
+msgid "WebStacks PRO 主题使用说明"
+msgstr ""
+
+#: go.php:10
+msgid "加载中"
+msgstr ""
+
+#: go.php:16
+msgid "参数缺失，正在返回首页..."
+msgstr ""
+
+#: inc/ajax.php:29
+msgid "图片添加成功"
+msgstr ""
+
+#: inc/ajax.php:32
+msgid "图片上传失败！"
+msgstr ""
+
+#: inc/ajax.php:44
+msgid "没有上传图像！"
+msgstr ""
+
+#: inc/ajax.php:52
+msgid "图片"
+msgstr ""
+
+#: inc/ajax.php:52
+msgid "删除失败！"
+msgstr ""
+
+#: inc/ajax.php:54
+msgid "删除成功！"
+msgstr ""
+
+#: inc/ajax.php:69
+msgid "此标题已存在，请换一个标题！"
+msgstr ""
+
+#: inc/ajax.php:71
+msgid "恭喜，此标题未与其他文章标题重复！"
+msgstr ""
+
+#: inc/ajax.php:83
+#, php-format
+msgid "您投稿也太勤快了吧，“%1$s”秒后再试！"
+msgstr ""
+
+#: inc/ajax.php:106 inc/meta-boxs.php:19
+msgid "网站"
+msgstr ""
+
+#: inc/ajax.php:108
+msgid "资源"
+msgstr ""
+
+#: inc/ajax.php:110 templates/content-site.php:79
+msgid "公众号"
+msgstr ""
+
+#: inc/ajax.php:121
+msgid "名称必须填写，且长度不得超过30字。"
+msgstr ""
+
+#: inc/ajax.php:126
+msgid "存在相同的名称，请不要重复提交哦！"
+msgstr ""
+
+#: inc/ajax.php:130
+msgid "链接必须填写，且必须符合URL格式。"
+msgstr ""
+
+#: inc/ajax.php:134 inc/ajax.php:271
+msgid "存在相同的链接地址，请不要重复提交哦！"
+msgstr ""
+
+#: inc/ajax.php:138
+msgid "描叙必须填写，且长度不得超过50字。"
+msgstr ""
+
+#: inc/ajax.php:141
+msgid "请选择分类。"
+msgstr ""
+
+#: inc/ajax.php:144
+msgid "不能选用父级分类目录。"
+msgstr ""
+
+#: inc/ajax.php:147
+msgid "必须添加二维码。"
+msgstr ""
+
+#: inc/ajax.php:154
+msgid "“官网地址”和“网盘地址”怎么地也待填一个把。"
+msgstr ""
+
+#: inc/ajax.php:201
+msgid "投稿成功！"
+msgstr ""
+
+#: inc/ajax.php:203
+msgid "投稿失败！"
+msgstr ""
+
+#: inc/ajax.php:242 inc/inc.php:467
+msgid "您的评论需要审核后才能显示！"
+msgstr ""
+
+#: inc/ajax.php:274
+msgid "没用重复地址，可以提交！"
+msgstr ""
+
+#: inc/ajax.php:277
+msgid "请填写地址！"
+msgstr ""
+
+#: inc/ajax.php:421 inc/ajax.php:465 templates/tools-hotcontent.php:76
+msgid "没有数据！请开启统计并等待产生数据"
+msgstr ""
+
+#: inc/ajax.php:523 inc/fav-content.php:163 templates/search-app.php:7
+#: templates/search-sites.php:7
+msgid "没有内容"
+msgstr ""
+
+#: inc/inc.php:8
+msgid "博客布局侧边栏"
+msgstr ""
+
+#: inc/inc.php:10
+msgid "显示在首页博客布局侧边栏"
+msgstr ""
+
+#: inc/inc.php:17
+msgid "正文侧边栏"
+msgstr ""
+
+#: inc/inc.php:19
+msgid "显示在文章正文及页面侧边栏"
+msgstr ""
+
+#: inc/inc.php:27
+msgid "分类归档侧边栏"
+msgstr ""
+
+#: inc/inc.php:29
+msgid "显示在文章归档页、搜索、404页侧边栏 "
+msgstr ""
+
+#: inc/inc.php:36
+msgid "公告归档页侧边栏"
+msgstr ""
+
+#: inc/inc.php:38
+msgid "显示在公告归档页侧边栏"
+msgstr ""
+
+#: inc/inc.php:49
+msgid "主菜单"
+msgstr ""
+
+#: inc/inc.php:50
+msgid "侧栏底部菜单"
+msgstr ""
+
+#: inc/inc.php:51
+msgid "顶部菜单"
+msgstr ""
+
+#: inc/inc.php:52
+msgid "搜索推荐"
+msgstr ""
+
+#: inc/inc.php:61
+msgid "请到[后台->外观->菜单]中添加“搜索推荐”菜单。"
+msgstr ""
+
+#: inc/inc.php:63
+msgid "请到[后台->外观->菜单]中设置菜单。"
+msgstr ""
+
+#: inc/inc.php:220
+msgid "网址状态"
+msgstr ""
+
+#: inc/inc.php:223
+msgid "网站收录了"
+msgstr ""
+
+#: inc/inc.php:223
+msgid "个网址"
+msgstr ""
+
+#: inc/inc.php:236
+msgid "有"
+msgstr ""
+
+#: inc/inc.php:236
+msgid "个网址可能失效了(死链)"
+msgstr ""
+
+#: inc/inc.php:238
+msgid "失效列表："
+msgstr ""
+
+#: inc/inc.php:242
+msgid ""
+"请手动检测一下，如果没有问题，请点击对应网址进入编辑，然后修改自定义字"
+"段“invalid”的值为0"
+msgstr ""
+
+#: inc/inc.php:245
+msgid "所有网址都可以正常访问"
+msgstr ""
+
+#: inc/inc.php:378
+msgid "刚刚"
+msgstr ""
+
+#: inc/inc.php:380
+msgid "年前"
+msgstr ""
+
+#: inc/inc.php:381
+msgid "个月前"
+msgstr ""
+
+#: inc/inc.php:382
+msgid "周前"
+msgstr ""
+
+#: inc/inc.php:383
+msgid "天前"
+msgstr ""
+
+#: inc/inc.php:384
+msgid "小时前"
+msgstr ""
+
+#: inc/inc.php:385
+msgid "分钟前"
+msgstr ""
+
+#: inc/inc.php:386
+msgid "秒前"
+msgstr ""
+
+#: inc/inc.php:403 inc/widgets.php:943
+msgid "博主"
+msgstr ""
+
+#: inc/inc.php:442
+msgid "头衔："
+msgstr ""
+
+#: inc/inc.php:442
+msgid "累计评论："
+msgstr ""
+
+#: inc/inc.php:561 inc/inc.php:620
+msgid "暂无文章"
+msgstr ""
+
+#: inc/meta-boxs.php:5
+msgid "站点信息"
+msgstr ""
+
+#: inc/meta-boxs.php:17
+msgid "类型"
+msgstr ""
+
+#: inc/meta-boxs.php:20
+msgid "公众号/小程序"
+msgstr ""
+
+#: inc/meta-boxs.php:21
+msgid "下载资源"
+msgstr ""
+
+#: inc/meta-boxs.php:28
+msgid "仅管理员可见"
+msgstr ""
+
+#: inc/meta-boxs.php:34 templates/content-site.php:79
+msgid "小程序"
+msgstr ""
+
+#: inc/meta-boxs.php:42 inc/meta-boxs.php:55 inc/theme-settings.php:327
+msgid "链接"
+msgstr ""
+
+#: inc/meta-boxs.php:43 inc/meta-boxs.php:56
+msgid "需要带上http://或者https://"
+msgstr ""
+
+#: inc/meta-boxs.php:49
+msgid "备用链接地址"
+msgstr ""
+
+#: inc/meta-boxs.php:50
+msgid "如果有多个链接地址，请在这里添加。"
+msgstr ""
+
+#: inc/meta-boxs.php:65 inc/meta-boxs.php:350 inc/theme-settings.php:328
+msgid "简介"
+msgstr ""
+
+#: inc/meta-boxs.php:66 inc/meta-boxs.php:351
+msgid "推荐不要超过150个字符，详细介绍加正文。"
+msgstr ""
+
+#: inc/meta-boxs.php:71
+msgid "站点语言"
+msgstr ""
+
+#: inc/meta-boxs.php:72
+msgid "站点支持的语言，多个用英语逗号分隔"
+msgstr ""
+
+#: inc/meta-boxs.php:79
+msgid "站点所在国家"
+msgstr ""
+
+#: inc/meta-boxs.php:85 inc/post-type.php:378 inc/post-type.php:465
+#: inc/post-type.php:477
+msgid "排序"
+msgstr ""
+
+#: inc/meta-boxs.php:86
+msgid "网址排序数值越大越靠前"
+msgstr ""
+
+#: inc/meta-boxs.php:92
+msgid "LOGO，标志"
+msgstr ""
+
+#: inc/meta-boxs.php:94 inc/meta-boxs.php:262
+msgid "添加图标地址，调用自定义图标"
+msgstr ""
+
+#: inc/meta-boxs.php:100
+msgid "公众号二维码"
+msgstr ""
+
+#: inc/meta-boxs.php:107 inc/meta-boxs.php:178 inc/meta-boxs.php:392
+msgid "下载地址"
+msgstr ""
+
+#: inc/meta-boxs.php:114
+msgid "网盘密码"
+msgstr ""
+
+#: inc/meta-boxs.php:121
+msgid "演示地址"
+msgstr ""
+
+#: inc/meta-boxs.php:127 inc/meta-boxs.php:328
+msgid "官方地址"
+msgstr ""
+
+#: inc/meta-boxs.php:133
+msgid "资源版本"
+msgstr ""
+
+#: inc/meta-boxs.php:139
+msgid "资源大小"
+msgstr ""
+
+#: inc/meta-boxs.php:140 inc/meta-boxs.php:377
+msgid "填写单位：KB,MB,GB,TB"
+msgstr ""
+
+#: inc/meta-boxs.php:146
+msgid "解压密码"
+msgstr ""
+
+#: inc/meta-boxs.php:152
+msgid "支持平台"
+msgstr ""
+
+#: inc/meta-boxs.php:158 inc/meta-boxs.php:321
+msgid "安卓"
+msgstr ""
+
+#: inc/meta-boxs.php:166
+msgid "下载地址列表"
+msgstr ""
+
+#: inc/meta-boxs.php:167
+msgid "添加下载地址，提取码等信息"
+msgstr ""
+
+#: inc/meta-boxs.php:172 inc/meta-boxs.php:387
+msgid "按钮名称"
+msgstr ""
+
+#: inc/meta-boxs.php:173 inc/meta-boxs.php:438
+msgid "百度网盘"
+msgstr ""
+
+#: inc/meta-boxs.php:183 inc/meta-boxs.php:397
+msgid "提取码"
+msgstr ""
+
+#: inc/meta-boxs.php:191 inc/meta-boxs.php:197 inc/meta-boxs.php:333
+msgid "添加截图"
+msgstr ""
+
+#: inc/meta-boxs.php:202
+msgid "截图"
+msgstr ""
+
+#: inc/meta-boxs.php:217 inc/meta-boxs.php:456 inc/meta-taxonomy.php:21
+#: inc/meta-taxonomy.php:57 inc/meta-taxonomy.php:104
+#: inc/meta-taxonomy.php:140 inc/meta-taxonomy.php:187
+#: inc/meta-taxonomy.php:223
+msgid "自定义标题"
+msgstr ""
+
+#: inc/meta-boxs.php:218
+msgid "留空则获取文章标题"
+msgstr ""
+
+#: inc/meta-boxs.php:223 inc/meta-boxs.php:462
+msgid "自定义关键词"
+msgstr ""
+
+#: inc/meta-boxs.php:224 inc/meta-boxs.php:463
+msgid "留空则获取文章标签"
+msgstr ""
+
+#: inc/meta-boxs.php:229 inc/meta-boxs.php:468
+msgid "自定义描叙"
+msgstr ""
+
+#: inc/meta-boxs.php:230 inc/meta-boxs.php:469
+msgid "留空则获取文章简介或摘要"
+msgstr ""
+
+#: inc/meta-boxs.php:242
+msgid "APP 信息"
+msgstr ""
+
+#: inc/meta-boxs.php:253
+msgid "排序：根据文章修改时间排序"
+msgstr ""
+
+#: inc/meta-boxs.php:258
+msgid "app 图标 *"
+msgstr ""
+
+#: inc/meta-boxs.php:259
+msgid "推荐256x256 必填"
+msgstr ""
+
+#: inc/meta-boxs.php:267
+msgid "app 图标选项"
+msgstr ""
+
+#: inc/meta-boxs.php:271
+msgid "预览"
+msgstr ""
+
+#: inc/meta-boxs.php:277
+msgid "透明"
+msgstr ""
+
+#: inc/meta-boxs.php:278
+msgid "图片是否透明？"
+msgstr ""
+
+#: inc/meta-boxs.php:283
+msgid "背景颜色"
+msgstr ""
+
+#: inc/meta-boxs.php:285
+msgid "颜色 1"
+msgstr ""
+
+#: inc/meta-boxs.php:286
+msgid "颜色 2"
+msgstr ""
+
+#: inc/meta-boxs.php:297
+msgid "缩放"
+msgstr ""
+
+#: inc/meta-boxs.php:310
+msgid "APP 名称"
+msgstr ""
+
+#: inc/meta-boxs.php:315
+msgid "APP支持平台"
+msgstr ""
+
+#: inc/meta-boxs.php:356
+msgid "APP 版本信息（添加版本，可构建历史版本）"
+msgstr ""
+
+#: inc/meta-boxs.php:361
+msgid "版本号"
+msgstr ""
+
+#: inc/meta-boxs.php:362
+msgid "添加版本号"
+msgstr ""
+
+#: inc/meta-boxs.php:367
+msgid "更新日期"
+msgstr ""
+
+#: inc/meta-boxs.php:376
+msgid "APP 大小"
+msgstr ""
+
+#: inc/meta-boxs.php:382
+msgid "下载地址信息"
+msgstr ""
+
+#: inc/meta-boxs.php:404
+msgid "APP状态"
+msgstr ""
+
+#: inc/meta-boxs.php:407 templates/content-app.php:26
+#: templates/content-app.php:134 templates/title.php:43
+msgid "官方版"
+msgstr ""
+
+#: inc/meta-boxs.php:408 templates/content-app.php:26
+#: templates/content-app.php:134 templates/title.php:43
+msgid "开心版"
+msgstr ""
+
+#: inc/meta-boxs.php:415
+msgid "是否有广告"
+msgstr ""
+
+#: inc/meta-boxs.php:420
+msgid "支持语言"
+msgstr ""
+
+#: inc/meta-boxs.php:421 inc/meta-boxs.php:442
+msgid "中文"
+msgstr ""
+
+#: inc/meta-boxs.php:426
+msgid "版本描叙"
+msgstr ""
+
+#: inc/meta-boxs.php:457
+msgid "留空则获取(app名称+app版本+是否有广告+APP状态+更新日期)为标题"
+msgstr ""
+
+#: inc/meta-taxonomy.php:16
+msgid "文章分类SEO设置（可留空）"
+msgstr ""
+
+#: inc/meta-taxonomy.php:26 inc/meta-taxonomy.php:62 inc/meta-taxonomy.php:109
+#: inc/meta-taxonomy.php:145 inc/meta-taxonomy.php:192
+#: inc/meta-taxonomy.php:228
+msgid "设置关键词"
+msgstr ""
+
+#: inc/meta-taxonomy.php:31 inc/meta-taxonomy.php:67 inc/meta-taxonomy.php:114
+#: inc/meta-taxonomy.php:150 inc/meta-taxonomy.php:197
+#: inc/meta-taxonomy.php:233
+msgid "自定义描述"
+msgstr ""
+
+#: inc/meta-taxonomy.php:52
+msgid "文章标签SEO设置（可留空）"
+msgstr ""
+
+#: inc/meta-taxonomy.php:88 inc/meta-taxonomy.php:171
+msgid "注意，最多2级，且父级不应有内容"
+msgstr ""
+
+#: inc/meta-taxonomy.php:99 inc/meta-taxonomy.php:182
+msgid "网址分类SEO设置（可留空）"
+msgstr ""
+
+#: inc/meta-taxonomy.php:135 inc/meta-taxonomy.php:218
+msgid "网址标签SEO设置（可留空）"
+msgstr ""
+
+#: inc/post-type.php:12
+msgid "添加网址"
+msgstr ""
+
+#: inc/post-type.php:13
+msgid "添加新网址"
+msgstr ""
+
+#: inc/post-type.php:14
+msgid "新网址"
+msgstr ""
+
+#: inc/post-type.php:15 templates/tools-customize.php:15
+msgid "编辑网址"
+msgstr ""
+
+#: inc/post-type.php:16
+msgid "查看网址"
+msgstr ""
+
+#: inc/post-type.php:17
+msgid "所有网址"
+msgstr ""
+
+#: inc/post-type.php:18
+msgid "搜索网址"
+msgstr ""
+
+#: inc/post-type.php:19
+msgid "Parent 网址:"
+msgstr ""
+
+#: inc/post-type.php:20
+msgid "你还没有发布网址。"
+msgstr ""
+
+#: inc/post-type.php:21
+msgid "回收站中没有网址。"
+msgstr ""
+
+#: inc/post-type.php:46
+msgid "网址分类目录"
+msgstr ""
+
+#: inc/post-type.php:47 inc/post-type.php:56
+msgid "网址分类"
+msgstr ""
+
+#: inc/post-type.php:48
+msgid "搜索网址目录"
+msgstr ""
+
+#: inc/post-type.php:49
+msgid "所有网址目录"
+msgstr ""
+
+#: inc/post-type.php:50 inc/post-type.php:79 inc/post-type.php:150
+#: inc/post-type.php:179
+msgid "父级分类目录"
+msgstr ""
+
+#: inc/post-type.php:51 inc/post-type.php:80 inc/post-type.php:151
+#: inc/post-type.php:180
+msgid "父级分类目录:"
+msgstr ""
+
+#: inc/post-type.php:52
+msgid "编辑网址目录"
+msgstr ""
+
+#: inc/post-type.php:53
+msgid "更新网址目录"
+msgstr ""
+
+#: inc/post-type.php:54
+msgid "添加新网址目录"
+msgstr ""
+
+#: inc/post-type.php:75 inc/post-type.php:76 inc/post-type.php:85
+msgid "网址标签"
+msgstr ""
+
+#: inc/post-type.php:77
+msgid "搜索网址标签"
+msgstr ""
+
+#: inc/post-type.php:78
+msgid "所有网址标签"
+msgstr ""
+
+#: inc/post-type.php:81
+msgid "编辑网址标签"
+msgstr ""
+
+#: inc/post-type.php:82
+msgid "更新网址标签"
+msgstr ""
+
+#: inc/post-type.php:83
+msgid "添加新网址标签"
+msgstr ""
+
+#: inc/post-type.php:111
+msgid "添加APP"
+msgstr ""
+
+#: inc/post-type.php:112
+msgid "添加新APP"
+msgstr ""
+
+#: inc/post-type.php:113
+msgid "新APP"
+msgstr ""
+
+#: inc/post-type.php:114
+msgid "编辑APP"
+msgstr ""
+
+#: inc/post-type.php:115
+msgid "查看APP"
+msgstr ""
+
+#: inc/post-type.php:116
+msgid "所有APP"
+msgstr ""
+
+#: inc/post-type.php:117
+msgid "搜索APP"
+msgstr ""
+
+#: inc/post-type.php:119
+msgid "你还没有发布APP。"
+msgstr ""
+
+#: inc/post-type.php:120
+msgid "回收站中没有APP。"
+msgstr ""
+
+#: inc/post-type.php:146
+msgid "APP分类目录"
+msgstr ""
+
+#: inc/post-type.php:147 inc/post-type.php:156
+msgid "APP分类"
+msgstr ""
+
+#: inc/post-type.php:148
+msgid "搜索APP目录"
+msgstr ""
+
+#: inc/post-type.php:149
+msgid "所有APP目录"
+msgstr ""
+
+#: inc/post-type.php:152
+msgid "编辑APP目录"
+msgstr ""
+
+#: inc/post-type.php:153
+msgid "更新APP目录"
+msgstr ""
+
+#: inc/post-type.php:154
+msgid "添加新APP目录"
+msgstr ""
+
+#: inc/post-type.php:175 inc/post-type.php:176 inc/post-type.php:185
+msgid "APP标签"
+msgstr ""
+
+#: inc/post-type.php:177
+msgid "搜索APP标签"
+msgstr ""
+
+#: inc/post-type.php:178
+msgid "所有APP标签"
+msgstr ""
+
+#: inc/post-type.php:181
+msgid "编辑APP标签"
+msgstr ""
+
+#: inc/post-type.php:182
+msgid "更新APP标签"
+msgstr ""
+
+#: inc/post-type.php:183
+msgid "添加新APP标签"
+msgstr ""
+
+#: inc/post-type.php:207 inc/post-type.php:208 inc/post-type.php:209
+#: inc/post-type.php:210 single-bulletin.php:22 template-bulletin.php:26
+msgid "公告"
+msgstr ""
+
+#: inc/post-type.php:211
+msgid "发布公告"
+msgstr ""
+
+#: inc/post-type.php:212
+msgid "发布新公告"
+msgstr ""
+
+#: inc/post-type.php:213
+msgid "新公告"
+msgstr ""
+
+#: inc/post-type.php:214
+msgid "编辑公告"
+msgstr ""
+
+#: inc/post-type.php:215
+msgid "查看公告"
+msgstr ""
+
+#: inc/post-type.php:216 single-bulletin.php:24
+msgid "所有公告"
+msgstr ""
+
+#: inc/post-type.php:217
+msgid "搜索公告"
+msgstr ""
+
+#: inc/post-type.php:218
+msgid "Parent 公告:"
+msgstr ""
+
+#: inc/post-type.php:219
+msgid "你还没有发布公告。"
+msgstr ""
+
+#: inc/post-type.php:220
+msgid "回收站中没有公告。"
+msgstr ""
+
+#: inc/post-type.php:342 templates/article-list.php:49
+msgid "所有"
+msgstr ""
+
+#: inc/post-type.php:379
+msgid "可见性"
+msgstr ""
+
+#: inc/post-type.php:389
+msgid "管理员"
+msgstr ""
+
+#: inc/post-type.php:389 inc/postviews/postviews-options.php:67
+msgid "所有人"
+msgstr ""
+
+#: inc/post-type.php:399
+msgid "菜单排序"
+msgstr ""
+
+#: inc/post-type.php:468 inc/post-type.php:480
+msgid "越大越靠前"
+msgstr ""
+
+#: inc/post-type.php:565
+msgid "查重"
+msgstr ""
+
+#: inc/post-type.php:565
+msgid "获取元数据（名称、描叙、关键字、国家）"
+msgstr ""
+
+#: inc/post-type.php:647
+msgid "刷新图标"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:20
+#: inc/postviews/postviews-options.php:61
+msgid "浏览计数设置"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:25
+msgid "已更新"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:30
+msgid "无选项更新"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:50 inc/postviews/postviews.php:217
+#: inc/widgets.php:964 templates/content-site.php:37
+msgid "浏览"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:64
+msgid "计数来源："
+msgstr ""
+
+#: inc/postviews/postviews-options.php:68
+msgid "只有访客"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:69
+msgid "只有注册用户"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:74
+msgid "排除机器人(爬虫等)："
+msgstr ""
+
+#: inc/postviews/postviews-options.php:77
+#: inc/postviews/postviews-options.php:87
+msgid "否"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:78
+#: inc/postviews/postviews-options.php:88
+msgid "是"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:84
+msgid "使用Ajax更新浏览次数："
+msgstr ""
+
+#: inc/postviews/postviews-options.php:91
+msgid "如果启用了静态缓存，将使用AJAX更新浏览计数。"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:100
+msgid "显示模板："
+msgstr ""
+
+#: inc/postviews/postviews-options.php:101
+msgid "可使用的变量："
+msgstr ""
+
+#: inc/postviews/postviews-options.php:104
+msgid "恢复默认模板"
+msgstr ""
+
+#: inc/postviews/postviews-options.php:112
+msgid "保存设置"
+msgstr ""
+
+#: inc/postviews/postviews.php:10
+msgid "浏览计数"
+msgstr ""
+
+#: inc/search-list.php:12
+msgid "常用"
+msgstr ""
+
+#: inc/search-list.php:16 inc/search-list.php:53
+msgid "百度"
+msgstr ""
+
+#: inc/search-list.php:17 inc/search-list.php:54
+msgid "百度一下"
+msgstr ""
+
+#: inc/search-list.php:23 inc/search-list.php:60
+msgid "谷歌两下"
+msgstr ""
+
+#: inc/search-list.php:28
+msgid "站内"
+msgstr ""
+
+#: inc/search-list.php:29
+msgid "站内搜索"
+msgstr ""
+
+#: inc/search-list.php:34 inc/search-list.php:35 inc/search-list.php:176
+#: inc/search-list.php:177
+msgid "淘宝"
+msgstr ""
+
+#: inc/search-list.php:41 inc/search-list.php:78
+msgid "微软Bing搜索"
+msgstr ""
+
+#: inc/search-list.php:49
+msgid "搜索"
+msgstr ""
+
+#: inc/search-list.php:66
+msgid "360好搜"
+msgstr ""
+
+#: inc/search-list.php:71
+msgid "搜狗"
+msgstr ""
+
+#: inc/search-list.php:72
+msgid "搜狗搜索"
+msgstr ""
+
+#: inc/search-list.php:83
+msgid "神马"
+msgstr ""
+
+#: inc/search-list.php:84
+msgid "UC移动端搜索"
+msgstr ""
+
+#: inc/search-list.php:92
+msgid "工具"
+msgstr ""
+
+#: inc/search-list.php:96
+msgid "权重查询"
+msgstr ""
+
+#: inc/search-list.php:97 inc/search-list.php:103 inc/search-list.php:109
+#: inc/search-list.php:115 inc/search-list.php:121
+msgid "请输入网址(不带http://)"
+msgstr ""
+
+#: inc/search-list.php:102
+msgid "友链检测"
+msgstr ""
+
+#: inc/search-list.php:108
+msgid "备案查询"
+msgstr ""
+
+#: inc/search-list.php:114
+msgid "PING检测"
+msgstr ""
+
+#: inc/search-list.php:120
+msgid "死链检测"
+msgstr ""
+
+#: inc/search-list.php:126
+msgid "关键词挖掘"
+msgstr ""
+
+#: inc/search-list.php:127
+msgid "请输入关键词"
+msgstr ""
+
+#: inc/search-list.php:135
+msgid "社区"
+msgstr ""
+
+#: inc/search-list.php:139 inc/search-list.php:140
+msgid "知乎"
+msgstr ""
+
+#: inc/search-list.php:145 inc/search-list.php:146
+msgid "微信"
+msgstr ""
+
+#: inc/search-list.php:151 inc/search-list.php:152 inc/widgets.php:788
+msgid "微博"
+msgstr ""
+
+#: inc/search-list.php:157 inc/search-list.php:158
+msgid "豆瓣"
+msgstr ""
+
+#: inc/search-list.php:163
+msgid "搜外问答"
+msgstr ""
+
+#: inc/search-list.php:164
+msgid "SEO问答社区"
+msgstr ""
+
+#: inc/search-list.php:172
+msgid "生活"
+msgstr ""
+
+#: inc/search-list.php:182 inc/search-list.php:183
+msgid "京东"
+msgstr ""
+
+#: inc/search-list.php:188 inc/search-list.php:189
+msgid "下厨房"
+msgstr ""
+
+#: inc/search-list.php:194 inc/search-list.php:195
+msgid "香哈菜谱"
+msgstr ""
+
+#: inc/search-list.php:206 inc/search-list.php:207
+msgid "快递100"
+msgstr ""
+
+#: inc/search-list.php:212 inc/search-list.php:213
+msgid "去哪儿"
+msgstr ""
+
+#: inc/search-list.php:221
+msgid "求职"
+msgstr ""
+
+#: inc/search-list.php:225 inc/search-list.php:226
+msgid "智联招聘"
+msgstr ""
+
+#: inc/search-list.php:231 inc/search-list.php:232
+msgid "前程无忧"
+msgstr ""
+
+#: inc/search-list.php:237 inc/search-list.php:238
+msgid "拉钩网"
+msgstr ""
+
+#: inc/search-list.php:243 inc/search-list.php:244
+msgid "猎聘网"
+msgstr ""
+
+#: inc/theme-settings.php:7
+msgid "主题设置"
+msgstr ""
+
+#: inc/theme-settings.php:14
+msgid "运行在"
+msgstr ""
+
+#: inc/theme-settings.php:50
+msgid "图标设置"
+msgstr ""
+
+#: inc/theme-settings.php:52
+msgid "网站LOGO和Favicon设置"
+msgstr ""
+
+#: inc/theme-settings.php:58 inc/theme-settings.php:69
+#: inc/theme-settings.php:80 inc/theme-settings.php:91
+#: inc/theme-settings.php:102 inc/theme-settings.php:112
+#: inc/theme-settings.php:730
+msgid "上传"
+msgstr ""
+
+#: inc/theme-settings.php:59 inc/theme-settings.php:70
+msgid "建议高80px，长小于360px"
+msgstr ""
+
+#: inc/theme-settings.php:68
+msgid "亮色主题Logo"
+msgstr ""
+
+#: inc/theme-settings.php:79
+msgid "方形 Logo"
+msgstr ""
+
+#: inc/theme-settings.php:81 inc/theme-settings.php:92
+msgid "建议 80x80"
+msgstr ""
+
+#: inc/theme-settings.php:90
+msgid "亮色主题方形 Logo"
+msgstr ""
+
+#: inc/theme-settings.php:101
+msgid "上传 Favicon"
+msgstr ""
+
+#: inc/theme-settings.php:111
+msgid "上传 apple_icon"
+msgstr ""
+
+#: inc/theme-settings.php:125
+msgid "主题颜色"
+msgstr ""
+
+#: inc/theme-settings.php:131
+msgid "颜色主题"
+msgstr ""
+
+#: inc/theme-settings.php:135
+msgid "暗色"
+msgstr ""
+
+#: inc/theme-settings.php:136
+msgid "黑白"
+msgstr ""
+
+#: inc/theme-settings.php:137
+msgid "亮灰"
+msgstr ""
+
+#: inc/theme-settings.php:139
+msgid ""
+"如果在前台通过“主题切换开关”手动切换主题，此设置无效，或者清除浏览器cookie才"
+"能生效"
+msgstr ""
+
+#: inc/theme-settings.php:144
+msgid "自定义颜色"
+msgstr ""
+
+#: inc/theme-settings.php:197
+msgid "基础设置"
+msgstr ""
+
+#: inc/theme-settings.php:203
+msgid "iowen 在线服务 key"
+msgstr ""
+
+#: inc/theme-settings.php:204
+msgid ""
+"此 key 用于<br>1、添加网址时自动获取网址标题、关键字等信息的 api 验证<br>2、"
+"热搜榜、新闻源等卡片获取数据的 api 验证<br><br>找作者免费索取"
+msgstr ""
+
+#: inc/theme-settings.php:210
+msgid "mini 侧边栏"
+msgstr ""
+
+#: inc/theme-settings.php:211
+msgid "默认使用 Mini 侧边栏，开启前请设置好菜单项图标"
+msgstr ""
+
+#: inc/theme-settings.php:217
+msgid "详情页"
+msgstr ""
+
+#: inc/theme-settings.php:218
+msgid "启用网址详情页"
+msgstr ""
+
+#: inc/theme-settings.php:219
+msgid "关闭状态为网址块直接跳转到目标网址。"
+msgstr ""
+
+#: inc/theme-settings.php:220
+msgid ""
+"<strong>“公众号”</strong>和<strong>“下载资源”</strong>默认开启详情页，不受此"
+"选项限制。"
+msgstr ""
+
+#: inc/theme-settings.php:226
+msgid "直达按钮"
+msgstr ""
+
+#: inc/theme-settings.php:227
+msgid "网址块显示直达按钮"
+msgstr ""
+
+#: inc/theme-settings.php:234
+msgid "显示网址链接速度(死链)"
+msgstr ""
+
+#: inc/theme-settings.php:235
+msgid "在网址详情页显示目标网址的链接速度、国家地址等信息"
+msgstr ""
+
+#: inc/theme-settings.php:236
+msgid "为网址失效状态提供数据来源<br>前台 JS 检测，不影响服务器性能"
+msgstr ""
+
+#: inc/theme-settings.php:243
+msgid "网址失效状态(死链)"
+msgstr ""
+
+#: inc/theme-settings.php:244
+msgid "详情页检测链接失败几次后提示管理员检测网址有效性<br>0为关闭提示"
+msgstr ""
+
+#: inc/theme-settings.php:251
+msgid "新标签中打开内链"
+msgstr ""
+
+#: inc/theme-settings.php:252
+msgid "站点所有内部链接在新标签中打开"
+msgstr ""
+
+#: inc/theme-settings.php:258
+msgid "访问统计"
+msgstr ""
+
+#: inc/theme-settings.php:259
+msgid "启用前先禁用WP-PostViews插件，因为主题已经集成WP-PostViews插件"
+msgstr ""
+
+#: inc/theme-settings.php:260
+msgid "如果开启没显示数字，去后台 <a href=\""
+msgstr ""
+
+#: inc/theme-settings.php:266
+msgid "访问基数"
+msgstr ""
+
+#: inc/theme-settings.php:267
+msgid ""
+"随机访问基数，取值范围：(0~10)*访问基数<br>设置大于0的整数启用，会导致访问统"
+"计虚假，酌情开启，关闭请填0"
+msgstr ""
+
+#: inc/theme-settings.php:274
+msgid "访问随机计数"
+msgstr ""
+
+#: inc/theme-settings.php:275
+msgid ""
+"访问一次随机增加访问次数，比如访问一次，增加5次<br>取值范围：(1~10)*访问随机"
+"数<br>设置大于0的数字启用，可以是小数，如：0.5，但小于0.5会导致取0值<br>会导"
+"致访问统计虚假，酌情开启，关闭请填0"
+msgstr ""
+
+#: inc/theme-settings.php:282
+msgid "点赞基数"
+msgstr ""
+
+#: inc/theme-settings.php:283
+msgid ""
+"随机点赞基数，取值范围：(0~10)*点赞基数<br>设置大于0的整数启用，会导致点赞统"
+"计虚假，酌情开启，关闭请填0"
+msgstr ""
+
+#: inc/theme-settings.php:289
+msgid "内链跳转"
+msgstr ""
+
+#: inc/theme-settings.php:290
+msgid "效果：http://您的域名/go/?url=外链"
+msgstr ""
+
+#: inc/theme-settings.php:296
+msgid "本地化外链图片"
+msgstr ""
+
+#: inc/theme-settings.php:297
+msgid "自动存储外链图片到本地服务器"
+msgstr ""
+
+#: inc/theme-settings.php:298
+msgid ""
+"只支持经典编辑器<br><strong>注：</strong>使用古腾堡(区块)编辑器的请不要开"
+"启，否则无法保存文章"
+msgstr ""
+
+#: inc/theme-settings.php:304
+msgid "图标懒加载"
+msgstr ""
+
+#: inc/theme-settings.php:305
+msgid "所有图片懒加载"
+msgstr ""
+
+#: inc/theme-settings.php:315
+msgid "首页设置"
+msgstr ""
+
+#: inc/theme-settings.php:321
+msgid "网址块弹窗提示"
+msgstr ""
+
+#: inc/theme-settings.php:322
+msgid "网址块默认的弹窗提示内容"
+msgstr ""
+
+#: inc/theme-settings.php:326
+msgid "无"
+msgstr ""
+
+#: inc/theme-settings.php:329
+msgid "二维码"
+msgstr ""
+
+#: inc/theme-settings.php:331
+msgid "如果网址添加了自定义二维码，此设置无效"
+msgstr ""
+
+#: inc/theme-settings.php:336
+msgid "网址列数"
+msgstr ""
+
+#: inc/theme-settings.php:337
+msgid "网址块列表一行显示的个数"
+msgstr ""
+
+#: inc/theme-settings.php:351
+msgid "小屏显示两列"
+msgstr ""
+
+#: inc/theme-settings.php:352
+msgid "手机等小屏幕显示两列"
+msgstr ""
+
+#: inc/theme-settings.php:358
+msgid "网址数量"
+msgstr ""
+
+#: inc/theme-settings.php:363
+msgid "首页分类下显示的网址数量"
+msgstr ""
+
+#: inc/theme-settings.php:369
+msgid "启用公告"
+msgstr ""
+
+#: inc/theme-settings.php:370
+msgid "启用自定义文章类型“公告”，启用后刷新页面"
+msgstr ""
+
+#: inc/theme-settings.php:376
+msgid "显示公告"
+msgstr ""
+
+#: inc/theme-settings.php:377
+msgid "在首页顶部显示公告"
+msgstr ""
+
+#: inc/theme-settings.php:384
+msgid "公告数量"
+msgstr ""
+
+#: inc/theme-settings.php:385
+msgid "需要显示的公告篇数"
+msgstr ""
+
+#: inc/theme-settings.php:395
+msgid "公告归档页"
+msgstr ""
+
+#: inc/theme-settings.php:396
+msgid " 如果没有，新建页面，选择“所有公告”模板并保存。"
+msgstr ""
+
+#: inc/theme-settings.php:398
+msgid "选择公告归档页面"
+msgstr ""
+
+#: inc/theme-settings.php:404
+msgid "搜索位置"
+msgstr ""
+
+#: inc/theme-settings.php:408
+msgid "默认位置"
+msgstr ""
+
+#: inc/theme-settings.php:409 inc/theme-settings.php:839
+msgid "头部"
+msgstr ""
+
+#: inc/theme-settings.php:410
+msgid "页脚小工具"
+msgstr ""
+
+#: inc/theme-settings.php:412
+msgid "默认位置在首页内容前面和分类内容前面显示搜索框"
+msgstr ""
+
+#: inc/theme-settings.php:417
+msgid "热搜热点小工具"
+msgstr ""
+
+#: inc/theme-settings.php:426 inc/theme-settings.php:479
+msgid "启用"
+msgstr ""
+
+#: inc/theme-settings.php:427 inc/theme-settings.php:480
+msgid "隐藏"
+msgstr ""
+
+#: inc/theme-settings.php:432
+msgid "自定义网址（我的导航）"
+msgstr ""
+
+#: inc/theme-settings.php:433
+msgid ""
+"显示游客自定义网址模块，允许游客自己添加网址和记录最近点击，数据保存于游客电"
+"脑。"
+msgstr ""
+
+#: inc/theme-settings.php:439
+msgid "预设网址（我的导航）"
+msgstr ""
+
+#: inc/theme-settings.php:440
+msgid ""
+"自定义网址模块添加预设网址，首页“我的导航”模块预设网址<br>例：1,22,33,44 用"
+"英语逗号分开"
+msgstr ""
+
+#: inc/theme-settings.php:447 templates/tools-customize.php:10
+msgid "最近点击"
+msgstr ""
+
+#: inc/theme-settings.php:448
+msgid "最近点击网址记录的最大数量"
+msgstr ""
+
+#: inc/theme-settings.php:458
+msgid "首页热门网址"
+msgstr ""
+
+#: inc/theme-settings.php:459
+msgid "首页显示热门网址模块，需开启访问统计，并产生了访问和点赞数据"
+msgstr ""
+
+#: inc/theme-settings.php:465
+msgid "热门菜单排序"
+msgstr ""
+
+#: inc/theme-settings.php:485
+msgid "mini网址块"
+msgstr ""
+
+#: inc/theme-settings.php:486
+msgid "显示热门网址启用mini网址块，只对网址有效"
+msgstr ""
+
+#: inc/theme-settings.php:493
+msgid "热门数量"
+msgstr ""
+
+#: inc/theme-settings.php:503
+msgid "tab模式"
+msgstr ""
+
+#: inc/theme-settings.php:504
+msgid "首页使用标签模式展示2级收藏网址"
+msgstr ""
+
+#: inc/theme-settings.php:510
+msgid "父级名称"
+msgstr ""
+
+#: inc/theme-settings.php:511
+msgid "网址块分类名前面显示父级分类名称"
+msgstr ""
+
+#: inc/theme-settings.php:517
+msgid "启用友链"
+msgstr ""
+
+#: inc/theme-settings.php:518
+msgid "启用自定义文章类型“链接(友情链接)”，启用后需刷新页面"
+msgstr ""
+
+#: inc/theme-settings.php:524 templates/friendlink.php:5
+msgid "友情链接"
+msgstr ""
+
+#: inc/theme-settings.php:525
+msgid "在首页底部添加友情链接"
+msgstr ""
+
+#: inc/theme-settings.php:537
+msgid "文章设置"
+msgstr ""
+
+#: inc/theme-settings.php:545 inc/widgets.php:807 inc/widgets.php:958
+#: search.php:14
+msgid "文章"
+msgstr ""
+
+#: inc/theme-settings.php:551
+msgid "首页显示文章模块"
+msgstr ""
+
+#: inc/theme-settings.php:552
+msgid "头部启用文章模块"
+msgstr ""
+
+#: inc/theme-settings.php:558
+msgid "幻灯片数量"
+msgstr ""
+
+#: inc/theme-settings.php:563
+msgid "显示置顶的文章，请把需要显示的文章置顶。"
+msgstr ""
+
+#: inc/theme-settings.php:569
+msgid "两篇文章"
+msgstr ""
+
+#: inc/theme-settings.php:570
+msgid ""
+"自定义文章模块中间的两篇文章，留空则随机展示。<br>填写两个文章id，用英语逗号"
+"分开，如：11,100"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: inc/theme-settings.php:576
+msgid "博客页面"
+msgstr ""
+
+#: inc/theme-settings.php:577
+msgid ""
+" 如果没有，新建页面，选择“博客页面”模板并保存。<br>用于最新资讯旁边的“所"
+"有”按钮。"
+msgstr ""
+
+#: inc/theme-settings.php:579
+msgid "选择一个页面"
+msgstr ""
+
+#: inc/theme-settings.php:585
+msgid "资讯列表排除分类"
+msgstr ""
+
+#: inc/theme-settings.php:586
+msgid "填写分类id，用英语逗号分开，如：11,100<br>文章分类id列表："
+msgstr ""
+
+#: inc/theme-settings.php:592
+msgid "首页显示某分类文章"
+msgstr ""
+
+#: inc/theme-settings.php:593
+msgid ""
+"在首页显示分类文章卡片<br>填写分类id，用英语逗号分开，如：11,100<br>文章分类"
+"id列表："
+msgstr ""
+
+#: inc/theme-settings.php:598
+msgid "文章卡片样式"
+msgstr ""
+
+#: inc/theme-settings.php:613
+msgid "网址设置"
+msgstr ""
+
+#: inc/theme-settings.php:619
+msgid "网址卡片样式"
+msgstr ""
+
+#: inc/theme-settings.php:626
+msgid "选择首页网址块显示风格：大、中、小"
+msgstr ""
+
+#: inc/theme-settings.php:631
+msgid "网址分类页显示数量"
+msgstr ""
+
+#: inc/theme-settings.php:638
+msgid "无图标模式"
+msgstr ""
+
+#: inc/theme-settings.php:648
+msgid "app设置"
+msgstr ""
+
+#: inc/theme-settings.php:654
+msgid "app 卡片样式"
+msgstr ""
+
+#: inc/theme-settings.php:660
+msgid "选择首页app块显示风格"
+msgstr ""
+
+#: inc/theme-settings.php:680
+msgid "页脚设置"
+msgstr ""
+
+#: inc/theme-settings.php:686
+msgid "备案号"
+msgstr ""
+
+#: inc/theme-settings.php:693
+msgid "自定义页脚版权"
+msgstr ""
+
+#: inc/theme-settings.php:700
+msgid "下载页版权声明"
+msgstr ""
+
+#: inc/theme-settings.php:701
+msgid ""
+"本站大部分下载资源收集于网络，只做学习和交流使用，版权归原作者所有。若您需要"
+"使用非免费的软件或服务，请购买正版授权并合法使用。本站发布的内容若侵犯到您的"
+"权益，请联系站长删除，我们将及时处理。"
+msgstr ""
+
+#: inc/theme-settings.php:710
+msgid "SEO设置"
+msgstr ""
+
+#: inc/theme-settings.php:712
+msgid ""
+"主题seo获取规则：<br>标题：页面、文章的标题<br>关键词：默认获取文章的标签，"
+"如果没有，则为标题加网址名称<br>描叙：默认获取文章简介"
+msgstr ""
+
+#: inc/theme-settings.php:717
+msgid "首页关键词"
+msgstr ""
+
+#: inc/theme-settings.php:718
+msgid "其他页面如果获取不到关键词，默认调取此设置"
+msgstr ""
+
+#: inc/theme-settings.php:723
+msgid "首页描述"
+msgstr ""
+
+#: inc/theme-settings.php:724
+msgid "其他页面如果获取不到描述，默认调取此设置"
+msgstr ""
+
+#: inc/theme-settings.php:729
+msgid "og 标签默认图片"
+msgstr ""
+
+#: inc/theme-settings.php:731
+msgid ""
+"QQ、微信分享时显示的缩略图<br>主题会默认获取文章、网址等内容的图片，但是如果"
+"内容没有图片，则获取此设置"
+msgstr ""
+
+#: inc/theme-settings.php:740
+msgid "固定链接模式"
+msgstr ""
+
+#: inc/theme-settings.php:741 inc/theme-settings.php:752
+#: inc/theme-settings.php:761 inc/theme-settings.php:784
+#: inc/theme-settings.php:790 inc/theme-settings.php:813
+msgid "设置后需重新保存一次固定链接"
+msgstr ""
+
+#: inc/theme-settings.php:751
+msgid "html 结尾"
+msgstr ""
+
+#: inc/theme-settings.php:753
+msgid "如：http://www.w.com/123.html"
+msgstr ""
+
+#: inc/theme-settings.php:822
+msgid "其他功能"
+msgstr ""
+
+#: inc/theme-settings.php:828
+msgid "天气"
+msgstr ""
+
+#: inc/theme-settings.php:829
+msgid "显示天气小工具"
+msgstr ""
+
+#: inc/theme-settings.php:835
+msgid "天气位置"
+msgstr ""
+
+#: inc/theme-settings.php:836
+msgid "footer"
+msgstr ""
+
+#: inc/theme-settings.php:840
+msgid "右下小工具"
+msgstr ""
+
+#: inc/theme-settings.php:847
+msgid "一言"
+msgstr ""
+
+#: inc/theme-settings.php:848
+msgid "右上角显示一言"
+msgstr ""
+
+#: inc/theme-settings.php:854
+msgid "阿里图标"
+msgstr ""
+
+#: inc/theme-settings.php:855
+msgid "fa 和阿里图标二选一，为轻量化资源，不能共用。"
+msgstr ""
+
+#: inc/theme-settings.php:861
+msgid "fontawesome CDN"
+msgstr ""
+
+#: inc/theme-settings.php:862
+msgid "fa图标库使用CDN，cdn地址修改请在 inc\\register.php 文件里修改。"
+msgstr ""
+
+#: inc/theme-settings.php:869
+msgid "阿里图标库地址"
+msgstr ""
+
+#: inc/theme-settings.php:876
+msgid "投稿直接发布"
+msgstr ""
+
+#: inc/theme-settings.php:877
+msgid "游客投稿的“网址”不需要审核直接发布"
+msgstr ""
+
+#: inc/theme-settings.php:883
+msgid "游客投稿分类"
+msgstr ""
+
+#: inc/theme-settings.php:884
+msgid "不审核直接发布到指定分类，如果设置此项，前台投稿页的分类选择将失效。"
+msgstr ""
+
+#: inc/theme-settings.php:885
+msgid "选择分类"
+msgstr ""
+
+#: inc/theme-settings.php:896
+msgid ""
+"邮件发信服务设置，如果你不需要评论邮件通知等功能，可不设置。<p>国内一般使用 "
+"SMTP 服务，<a href=\"https://www.iowen.cn/wordpress-mail-smtp-code/\" "
+"target=\"_blank\">设置方法</a></p>"
+msgstr ""
+
+#: inc/theme-settings.php:909
+msgid "使用SMTP或PHPMail作为默认邮件发送方式"
+msgstr ""
+
+#: inc/theme-settings.php:914
+msgid "SMTP 主机"
+msgstr ""
+
+#: inc/theme-settings.php:915
+msgid "<br>您的 SMTP 服务主机"
+msgstr ""
+
+#: inc/theme-settings.php:921
+msgid "SMTP 端口"
+msgstr ""
+
+#: inc/theme-settings.php:922
+msgid "<br>您的 SMTP 服务端口"
+msgstr ""
+
+#: inc/theme-settings.php:929
+msgid "SMTP 安全"
+msgstr ""
+
+#: inc/theme-settings.php:930
+msgid "<br>您的 SMTP 服务器安全协议"
+msgstr ""
+
+#: inc/theme-settings.php:944
+msgid "SMTP 用户名"
+msgstr ""
+
+#: inc/theme-settings.php:945
+msgid "<br>您的 SMTP 用户名"
+msgstr ""
+
+#: inc/theme-settings.php:951
+msgid "SMTP 密码"
+msgstr ""
+
+#: inc/theme-settings.php:952
+msgid "<br>您的 SMTP 密码"
+msgstr ""
+
+#: inc/theme-settings.php:958
+msgid "你的姓名"
+msgstr ""
+
+#: inc/theme-settings.php:960
+msgid "<br>你发送的邮件中显示的名称"
+msgstr ""
+
+#: inc/theme-settings.php:966
+msgid "PHP Mail 发信人姓名"
+msgstr ""
+
+#: inc/theme-settings.php:968
+msgid "<br>使用 PHPMailer 发送邮件的显示名称"
+msgstr ""
+
+#: inc/theme-settings.php:974
+msgid "PHP Mail 发信人地址"
+msgstr ""
+
+#: inc/theme-settings.php:975
+msgid "<br>当使用 PHPMailer 发信时可使用自定义的发信人地址"
+msgstr ""
+
+#: inc/theme-settings.php:982
+msgid "下面的功能尽量不要动，出问题了点击上方“重置部分”重置此页设置"
+msgstr ""
+
+#: inc/theme-settings.php:987
+msgid "图标源设置"
+msgstr ""
+
+#: inc/theme-settings.php:988
+msgid "自建图标源api源码地址："
+msgstr ""
+
+#: inc/theme-settings.php:993
+msgid "不包含 http(s)://"
+msgstr ""
+
+#: inc/theme-settings.php:995
+msgid "根据图标源 api 要求设置，如果api要求不能包含协议名称，请开启此选项"
+msgstr ""
+
+#: inc/theme-settings.php:1000
+msgid "图标源"
+msgstr ""
+
+#: inc/theme-settings.php:1002
+msgid "api 地址"
+msgstr ""
+
+#: inc/theme-settings.php:1007
+msgid "图标源api后缀"
+msgstr ""
+
+#: inc/theme-settings.php:1009
+msgid "如：.png ,请根据api格式要求设置，如不需要请留空"
+msgstr ""
+
+#: inc/theme-settings.php:1016
+msgid "二维码api"
+msgstr ""
+
+#: inc/theme-settings.php:1017
+msgid "可用二维码api源地址："
+msgstr ""
+
+#: inc/theme-settings.php:1024
+msgid "博客随机头部图片"
+msgstr ""
+
+#: inc/theme-settings.php:1025
+msgid "缩略图、文章页随机图片"
+msgstr ""
+
+#: inc/theme-settings.php:1026
+msgid ""
+"一行一个图片地址，注意不要有空格<br>如果站点使用了图床、cdn等，请将域名添加"
+"到主题根目录timthumb.php文件的第130行下面。"
+msgstr ""
+
+#: inc/theme-settings.php:1044
+msgid "自定义 CSS,自定义美化...<br>如："
+msgstr ""
+
+#: inc/theme-settings.php:1044 inc/theme-settings.php:1056
+msgid "注意："
+msgstr ""
+
+#: inc/theme-settings.php:1044
+msgid "不要填写"
+msgstr ""
+
+#: inc/theme-settings.php:1056
+msgid "出现在网站底部 body 前。"
+msgstr ""
+
+#: inc/theme-settings.php:1056
+msgid "必须填写"
+msgstr ""
+
+#: inc/theme-settings.php:1070
+msgid "添加广告"
+msgstr ""
+
+#: inc/theme-settings.php:1078
+msgid "首页广告"
+msgstr ""
+
+#: inc/theme-settings.php:1084
+msgid "首页顶部广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1090
+msgid "首页顶部广告位在移动端显示"
+msgstr ""
+
+#: inc/theme-settings.php:1097
+msgid "首页顶部广告位2"
+msgstr ""
+
+#: inc/theme-settings.php:1098 inc/theme-settings.php:1145
+#: inc/theme-settings.php:1192
+msgid "大屏并排显示2个广告位，小屏幕自动隐藏"
+msgstr ""
+
+#: inc/theme-settings.php:1105
+msgid "首页顶部广告位内容"
+msgstr ""
+
+#: inc/theme-settings.php:1116
+msgid "首页顶部广告位2内容"
+msgstr ""
+
+#: inc/theme-settings.php:1117
+msgid "首页顶部第二个广告位的内容"
+msgstr ""
+
+#: inc/theme-settings.php:1130
+msgid "首页网址块上方广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1131
+msgid "网址块上方广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1137 inc/theme-settings.php:1184
+msgid "在移动端显示"
+msgstr ""
+
+#: inc/theme-settings.php:1144
+msgid "广告位2"
+msgstr ""
+
+#: inc/theme-settings.php:1152
+msgid "广告位内容"
+msgstr ""
+
+#: inc/theme-settings.php:1163
+msgid "广告位2内容"
+msgstr ""
+
+#: inc/theme-settings.php:1164 inc/theme-settings.php:1211
+msgid "第二个广告位的内容"
+msgstr ""
+
+#: inc/theme-settings.php:1177
+msgid "友链上方广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1178
+msgid "首页底部友链上方广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1191
+msgid "友链上方广告位2"
+msgstr ""
+
+#: inc/theme-settings.php:1199
+msgid "友链上方广告位内容"
+msgstr ""
+
+#: inc/theme-settings.php:1210
+msgid "友链上方广告位2内容"
+msgstr ""
+
+#: inc/theme-settings.php:1226
+msgid "全站 footer 位广告"
+msgstr ""
+
+#: inc/theme-settings.php:1232
+msgid "footer 广告位内容"
+msgstr ""
+
+#: inc/theme-settings.php:1247
+msgid "文章广告"
+msgstr ""
+
+#: inc/theme-settings.php:1253
+msgid "详情页右边广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1259
+msgid "详情页右边广告位内容"
+msgstr ""
+
+#: inc/theme-settings.php:1270
+msgid "app详情页广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1276
+msgid "app详情页广告位内容"
+msgstr ""
+
+#: inc/theme-settings.php:1287
+msgid "文章内广告短代码"
+msgstr ""
+
+#: inc/theme-settings.php:1293
+msgid "在文章中添加短代码 [ad] 即可调用"
+msgstr ""
+
+#: inc/theme-settings.php:1297
+msgid "正文标题广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1302
+msgid "输入正文标题广告代码"
+msgstr ""
+
+#: inc/theme-settings.php:1313
+msgid "正文底部广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1319
+msgid "输入正文底部广告代码"
+msgstr ""
+
+#: inc/theme-settings.php:1331
+msgid "评论上方广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1336
+msgid "输入评论上方广告代码"
+msgstr ""
+
+#: inc/theme-settings.php:1347
+msgid "下载弹窗广告位"
+msgstr ""
+
+#: inc/theme-settings.php:1352
+msgid "下载弹窗广告代码"
+msgstr ""
+
+#: inc/theme-settings.php:1369
+msgid "优化设置"
+msgstr ""
+
+#: inc/theme-settings.php:1378
+msgid "禁用功能"
+msgstr ""
+
+#: inc/theme-settings.php:1385
+msgid "禁用REST API"
+msgstr ""
+
+#: inc/theme-settings.php:1386
+msgid ""
+"禁用REST API、移除wp-json链接（默认关闭，如果你的网站没有做小程序或是APP，建"
+"议禁用REST API）"
+msgstr ""
+
+#: inc/theme-settings.php:1394
+msgid "禁用文章修订功能"
+msgstr ""
+
+#: inc/theme-settings.php:1395
+msgid "禁用文章修订功能，精简 Posts 表数据。"
+msgstr ""
+
+#: inc/theme-settings.php:1403
+msgid "禁用字符转码"
+msgstr ""
+
+#: inc/theme-settings.php:1404
+msgid "禁用字符换成格式化的 HTML 实体功能。"
+msgstr ""
+
+#: inc/theme-settings.php:1411
+msgid "禁用站点Feed"
+msgstr ""
+
+#: inc/theme-settings.php:1412
+msgid "禁用站点Feed，防止文章快速被采集。"
+msgstr ""
+
+#: inc/theme-settings.php:1419
+msgid "禁用Trackbacks"
+msgstr ""
+
+#: inc/theme-settings.php:1420
+msgid ""
+"Trackbacks协议被滥用，会给博客产生大量垃圾留言，建议彻底关闭Trackbacks。"
+msgstr ""
+
+#: inc/theme-settings.php:1427
+msgid "禁用古腾堡编辑器"
+msgstr ""
+
+#: inc/theme-settings.php:1428
+msgid "禁用Gutenberg编辑器，换回经典编辑器。"
+msgstr ""
+
+#: inc/theme-settings.php:1435
+msgid "禁用XML-RPC"
+msgstr ""
+
+#: inc/theme-settings.php:1436
+msgid ""
+"XML-RPC协议用于客户端发布文章，如果你只是在后台发布，可以关闭XML-RPC功能。"
+"Gutenberg编辑器需要XML-RPC功能。"
+msgstr ""
+
+#: inc/theme-settings.php:1444
+msgid "禁用后台隐私（GDPR）"
+msgstr ""
+
+#: inc/theme-settings.php:1445
+msgid ""
+"GDPR（General Data Protection Regulation）是欧洲的通用数据保护条例，"
+"WordPress为了适应该法律，在后台设置很多隐私功能，如果只是在国内运营博客，可"
+"以移除后台隐私相关的页面。"
+msgstr ""
+
+#: inc/theme-settings.php:1451
+msgid "禁用emoji代码"
+msgstr ""
+
+#: inc/theme-settings.php:1452
+msgid ""
+"WordPress 为了兼容在一些比较老旧的浏览器能够显示 Emoji 表情图标，而准备的功"
+"能。"
+msgstr ""
+
+#: inc/theme-settings.php:1458
+msgid "禁用Auto Embeds"
+msgstr ""
+
+#: inc/theme-settings.php:1459
+msgid ""
+"禁用 Auto Embeds 功能，加快页面解析速度。 Auto Embeds 支持的网站大部分都是国"
+"外的网站，建议禁用。"
+msgstr ""
+
+#: inc/theme-settings.php:1465
+msgid "禁用文章Embed"
+msgstr ""
+
+#: inc/theme-settings.php:1466
+msgid "禁用可嵌入其他 WordPress 文章的Embed功能"
+msgstr ""
+
+#: inc/theme-settings.php:1477
+msgid "优化加速"
+msgstr ""
+
+#: inc/theme-settings.php:1484
+msgid "移除头部代码"
+msgstr ""
+
+#: inc/theme-settings.php:1485
+msgid ""
+"WordPress会在页面的头部输出了一些link和meta标签代码，这些代码没什么作用，并"
+"且存在安全隐患，建议移除WordPress页面头部中无关紧要的代码。"
+msgstr ""
+
+#: inc/theme-settings.php:1492
+msgid "移除admin bar"
+msgstr ""
+
+#: inc/theme-settings.php:1493
+msgid ""
+"WordPress用户登陆的情况下会出现Admin Bar，此选项可以帮助你全局移除工具栏，所"
+"有人包括管理员都看不到。"
+msgstr ""
+
+#: inc/theme-settings.php:1499
+msgid "去除分类标志"
+msgstr ""
+
+#: inc/theme-settings.php:1500
+msgid ""
+"去除链接中的分类category标志，有利于SEO优化，每次开启或关闭此功能，都需要重"
+"新保存一下固定链接！"
+msgstr ""
+
+#: inc/theme-settings.php:1517
+msgid "使用Gravatar默认服务器"
+msgstr ""
+
+#: inc/theme-settings.php:1518
+msgid "使用v2ex镜像加速服务"
+msgstr ""
+
+#: inc/theme-settings.php:1524
+msgid "移除帮助按钮"
+msgstr ""
+
+#: inc/theme-settings.php:1525
+msgid "移除后台界面右上角的帮助"
+msgstr ""
+
+#: inc/theme-settings.php:1531
+msgid "移除选项按钮"
+msgstr ""
+
+#: inc/theme-settings.php:1532
+msgid "移除后台界面右上角的选项"
+msgstr ""
+
+#: inc/theme-settings.php:1538
+msgid "禁用 admin"
+msgstr ""
+
+#: inc/theme-settings.php:1539
+msgid "禁止使用 admin 用户名尝试登录 WordPress。"
+msgstr ""
+
+#: inc/theme-settings.php:1545
+msgid "压缩 html 源码"
+msgstr ""
+
+#: inc/theme-settings.php:1546
+msgid "压缩网站源码，提高加载速度。（如果启用发现网站布局错误，请禁用。）"
+msgstr ""
+
+#: inc/theme-settings.php:1557
+msgid "备份设置"
+msgstr ""
+
+#: inc/theme-settings.php:1559
+msgid ""
+"仅能保存主题设置，不能保存整站数据。（此操作可能会清除设置数据，请谨慎操作）"
+msgstr ""
+
+#: inc/widgets.php:8
+msgid "显示全部分类或某个分类的最新文章"
+msgstr ""
+
+#: inc/widgets.php:11 inc/widgets.php:102 templates/cat-list.php:40
+msgid "最新文章"
+msgstr ""
+
+#: inc/widgets.php:109 inc/widgets.php:227 inc/widgets.php:363
+#: inc/widgets.php:465 inc/widgets.php:630 inc/widgets.php:719
+#: inc/widgets.php:1088 inc/widgets.php:1197
+msgid "标题："
+msgstr ""
+
+#: inc/widgets.php:113 inc/widgets.php:231 inc/widgets.php:367
+#: inc/widgets.php:469 inc/widgets.php:634 inc/widgets.php:1092
+#: inc/widgets.php:1201
+msgid "图标代码："
+msgstr ""
+
+#: inc/widgets.php:118 inc/widgets.php:236 inc/widgets.php:372
+#: inc/widgets.php:639 inc/widgets.php:1097 inc/widgets.php:1206
+msgid "在新窗口打开标题链接"
+msgstr ""
+
+#: inc/widgets.php:121 inc/widgets.php:239 inc/widgets.php:375
+#: inc/widgets.php:642 inc/widgets.php:1100 inc/widgets.php:1209
+msgid "显示文章数："
+msgstr ""
+
+#: inc/widgets.php:125
+msgid "选择分类："
+msgstr ""
+
+#: inc/widgets.php:126
+msgid "全部分类"
+msgstr ""
+
+#: inc/widgets.php:130 inc/widgets.php:385 inc/widgets.php:647
+#: inc/widgets.php:1109
+msgid "显示缩略图"
+msgstr ""
+
+#: inc/widgets.php:145
+msgid "显示所有公告"
+msgstr ""
+
+#: inc/widgets.php:148
+msgid "最新公告"
+msgstr ""
+
+#: inc/widgets.php:199
+msgid "更多"
+msgstr ""
+
+#: inc/widgets.php:221
+msgid "站点公告"
+msgstr ""
+
+#: inc/widgets.php:255
+msgid "调用评论最多的文章"
+msgstr ""
+
+#: inc/widgets.php:258 inc/widgets.php:353
+msgid "热评文章"
+msgstr ""
+
+#: inc/widgets.php:379 inc/widgets.php:1104 inc/widgets.php:1213
+msgid "时间限定（天）："
+msgstr ""
+
+#: inc/widgets.php:400
+msgid "包含所有标签类型"
+msgstr ""
+
+#: inc/widgets.php:403 inc/widgets.php:458
+msgid "热门标签"
+msgstr ""
+
+#: inc/widgets.php:473
+msgid "显示数量："
+msgstr ""
+
+#: inc/widgets.php:490
+msgid "显示相关文章"
+msgstr ""
+
+#: inc/widgets.php:493 inc/widgets.php:622
+msgid "相关文章"
+msgstr ""
+
+#: inc/widgets.php:663
+msgid "用于侧边添加广告代码"
+msgstr ""
+
+#: inc/widgets.php:666 inc/widgets.php:714
+msgid "广告位"
+msgstr ""
+
+#: inc/widgets.php:721
+msgid "内容："
+msgstr ""
+
+#: inc/widgets.php:723
+msgid "自动分段"
+msgstr ""
+
+#: inc/widgets.php:737
+msgid "本站信息、微信、微博、QQ"
+msgstr ""
+
+#: inc/widgets.php:740
+msgid "关于本站"
+msgstr ""
+
+#: inc/widgets.php:783
+msgid "QQ在线"
+msgstr ""
+
+#: inc/widgets.php:801
+msgid "收录网站"
+msgstr ""
+
+#: inc/widgets.php:804
+msgid "收录 App"
+msgstr ""
+
+#: inc/widgets.php:810
+msgid "访客"
+msgstr ""
+
+#: inc/widgets.php:843
+msgid "输入链接地址"
+msgstr ""
+
+#: inc/widgets.php:852
+msgid "头像："
+msgstr ""
+
+#: inc/widgets.php:857 inc/widgets.php:995
+msgid "背景图片："
+msgstr ""
+
+#: inc/widgets.php:865
+msgid "显示社交图标"
+msgstr ""
+
+#: inc/widgets.php:870
+msgid "微信二维码："
+msgstr ""
+
+#: inc/widgets.php:875
+msgid "QQ号："
+msgstr ""
+
+#: inc/widgets.php:879
+msgid "新浪微博地址："
+msgstr ""
+
+#: inc/widgets.php:884
+msgid "GitHub地址："
+msgstr ""
+
+#: inc/widgets.php:887
+msgid "留空可以隐藏对应项"
+msgstr ""
+
+#: inc/widgets.php:901
+msgid "只显示在正文和作者页面"
+msgstr ""
+
+#: inc/widgets.php:904
+msgid "关于作者"
+msgstr ""
+
+#: inc/widgets.php:945 page.php:17 single-bulletin.php:68 single.php:56
+#: template-contribute.php:21 templates/content-app.php:114
+#: templates/content-down.php:136 templates/content-site.php:126
+msgid "编辑"
+msgstr ""
+
+#: inc/widgets.php:947
+msgid "作者"
+msgstr ""
+
+#: inc/widgets.php:949
+msgid "投稿者"
+msgstr ""
+
+#: inc/widgets.php:951
+msgid "订阅者"
+msgstr ""
+
+#: inc/widgets.php:961
+msgid "评论"
+msgstr ""
+
+#: inc/widgets.php:967
+msgid "获赞"
+msgstr ""
+
+#: inc/widgets.php:1012
+msgid "调用点击最多的文章，需开启主题设置里的“访问统计”,并有统计数据"
+msgstr ""
+
+#: inc/widgets.php:1015 inc/widgets.php:1078
+msgid "热门文章"
+msgstr ""
+
+#: inc/widgets.php:1126
+msgid "调用点击最多的网址，需开启主题设置里的“访问统计”,并有统计数据"
+msgstr ""
+
+#: inc/widgets.php:1129 inc/widgets.php:1187 templates/tools-hotcontent.php:13
+msgid "热门网址"
+msgstr ""
+
+#: inc/wp-optimization.php:45
+#, php-format
+msgid "Feed已经关闭, 请访问网站<a href=\"%s\">首页"
+msgstr ""
+
+#: search.php:15
+msgid "软件"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "“%s”的搜索结果"
+msgstr ""
+
+#: sidebar-blog.php:7 sidebar-bulletin.php:7 sidebar.php:13 sidebar.php:26
+msgid "添加小工具"
+msgstr ""
+
+#: sidebar-blog.php:10
+msgid "点此为“博客布局侧边栏”添加小工具"
+msgstr ""
+
+#: sidebar-bulletin.php:10
+msgid "点此为“公告侧边栏”添加小工具"
+msgstr ""
+
+#: sidebar.php:16
+msgid "点此为“正文侧边栏”添加小工具"
+msgstr ""
+
+#: sidebar.php:29
+msgid "点此为“分类归档侧边栏”添加小工具"
+msgstr ""
+
+#: single-app.php:13
+msgid "相关软件"
+msgstr ""
+
+#: single-app.php:46 single-sites.php:50
+msgid "没有相关内容!"
+msgstr ""
+
+#: single-bulletin.php:81 single-bulletin.php:87 single.php:80 single.php:86
+msgid "上一篇"
+msgstr ""
+
+#: single-bulletin.php:88 single-bulletin.php:101 single.php:87 single.php:100
+msgid "没有更多了..."
+msgstr ""
+
+#: single-bulletin.php:94 single-bulletin.php:100 single.php:93 single.php:99
+msgid "下一篇"
+msgstr ""
+
+#: single-sites.php:17
+msgid "相关导航"
+msgstr ""
+
+#: single-sites.php:80 single-sites.php:89
+msgid "链接超时，网站可能下线了，请点击直达试试"
+msgstr ""
+
+#: single-sites.php:84
+msgid "墙外世界需要梯子"
+msgstr ""
+
+#: single-sites.php:95
+msgid "链接成功:"
+msgstr ""
+
+#: single-sites.php:95
+msgid "秒"
+msgstr ""
+
+#: single-sites.php:114 single-sites.php:134
+msgid "网络错误"
+msgstr ""
+
+#: single-sites.php:119
+msgid "查询失败"
+msgstr ""
+
+#: single.php:66
+msgid "版权声明："
+msgstr ""
+
+#: single.php:66
+msgid "发表于"
+msgstr ""
+
+#: single.php:67
+msgid "转载请注明："
+msgstr ""
+
+#: single.php:67
+msgid "本文固定链接"
+msgstr ""
+
+#: template-bulletin.php:28
+msgid "总计："
+msgstr ""
+
+#: template-bulletin.php:56
+msgid "Y年m月d日"
+msgstr ""
+
+#: templates/article-list.php:48 templates/article-list.php:49
+msgid "最新资讯"
+msgstr ""
+
+#: templates/bulletin.php:21
+msgid "关闭"
+msgstr ""
+
+#: templates/card-appcard.php:34
+msgid "没添加标签"
+msgstr ""
+
+#: templates/card-site.php:23 templates/card-site.php:32
+#: templates/card-site.php:39 templates/card-sitemax.php:23
+#: templates/card-sitemax.php:32 templates/card-sitemax.php:39
+#: templates/card-sitemini.php:23 templates/card-sitemini.php:32
+#: templates/card-sitemini.php:39 templates/content-app.php:128
+#: templates/content-app.php:136
+msgid "下载"
+msgstr ""
+
+#: templates/card-site.php:25 templates/card-site.php:41
+#: templates/card-sitemax.php:25 templates/card-sitemax.php:41
+#: templates/card-sitemini.php:25 templates/card-sitemini.php:41
+#: templates/content-site.php:76
+msgid "居然没有添加二维码"
+msgstr ""
+
+#: templates/card-site.php:27 templates/card-site.php:43
+#: templates/card-sitemax.php:27 templates/card-sitemax.php:43
+#: templates/card-sitemini.php:27 templates/card-sitemini.php:43
+msgid "没有 url"
+msgstr ""
+
+#: templates/card-site.php:116 templates/card-sitemax.php:146
+#: templates/card-sitemini.php:116
+msgid "直达"
+msgstr ""
+
+#: templates/cat-list.php:15 templates/content-site.php:83
+msgid "标签："
+msgstr ""
+
+#: templates/cat-list.php:23
+msgid "作者："
+msgstr ""
+
+#: templates/cat-list.php:26
+msgid "我还没有学会写个人说明！"
+msgstr ""
+
+#: templates/content-app.php:27 templates/title.php:43
+msgid "有广告"
+msgstr ""
+
+#: templates/content-app.php:27 templates/title.php:43
+msgid "无广告"
+msgstr ""
+
+#: templates/content-app.php:31 templates/content-down.php:57
+msgid "更新日期："
+msgstr ""
+
+#: templates/content-app.php:32 templates/content-down.php:58
+msgid "分类标签："
+msgstr ""
+
+#: templates/content-app.php:33
+msgid "语言："
+msgstr ""
+
+#: templates/content-app.php:34 templates/content-down.php:59
+msgid "平台："
+msgstr ""
+
+#: templates/content-app.php:41 templates/content-down.php:66
+msgid "立即下载"
+msgstr ""
+
+#: templates/content-app.php:43 templates/content-down.php:68
+msgid "赞"
+msgstr ""
+
+#: templates/content-app.php:47 templates/content-app.php:119
+msgid "历史版本"
+msgstr ""
+
+#: templates/content-app.php:49 templates/content-down.php:73
+msgid "人已下载"
+msgstr ""
+
+#: templates/content-app.php:55 templates/content-down.php:79
+#: templates/content-site.php:72
+msgid "手机查看"
+msgstr ""
+
+#: templates/content-app.php:74 templates/content-app.php:76
+#: templates/content-down.php:97 templates/content-down.php:99
+msgid "使用截图"
+msgstr ""
+
+#: templates/content-app.php:113 templates/content-down.php:135
+msgid "去官方网站了解更多"
+msgstr ""
+
+#: templates/content-app.php:123
+msgid "版本"
+msgstr ""
+
+#: templates/content-app.php:124
+msgid "日期"
+msgstr ""
+
+#: templates/content-app.php:125
+msgid "大小"
+msgstr ""
+
+#: templates/content-app.php:126
+msgid "状态"
+msgstr ""
+
+#: templates/content-app.php:127
+msgid "语言"
+msgstr ""
+
+#: templates/content-app.php:131
+msgid "最新"
+msgstr ""
+
+#: templates/content-app.php:148 templates/content-down.php:144
+msgid "下载地址: "
+msgstr ""
+
+#: templates/content-app.php:154 templates/content-down.php:166
+msgid "声明："
+msgstr ""
+
+#: templates/content-app.php:172 templates/content-down.php:149
+#: templates/content-down.php:156
+msgid "提取码："
+msgstr ""
+
+#: templates/content-down.php:59
+msgid "没限制"
+msgstr ""
+
+#: templates/content-down.php:72
+msgid "大小未知"
+msgstr ""
+
+#: templates/content-down.php:147
+msgid "网盘下载"
+msgstr ""
+
+#: templates/content-down.php:161
+msgid "解压密码："
+msgstr ""
+
+#: templates/content-site.php:31
+msgid "点赞"
+msgstr ""
+
+#: templates/content-site.php:88
+msgid "链接直达"
+msgstr ""
+
+#: templates/content-site.php:92
+msgid "备用地址"
+msgstr ""
+
+#: templates/title.php:17
+#, php-format
+msgid "%s的搜索结果"
+msgstr ""
+
+#: templates/tools-customize.php:7
+msgid "我的导航"
+msgstr ""
+
+#: templates/tools-customize.php:31
+msgid "没有数据！点右上角编辑添加网址"
+msgstr ""
+
+#: templates/tools-customize.php:64
+msgid "没有数据！等待你的参与哦 ^_^"
+msgstr ""
+
+#: templates/tools-customize.php:74
+msgid "添加自定义网址"
+msgstr ""
+
+#: templates/tools-customize.php:76
+msgid "网站名称"
+msgstr ""
+
+#: templates/tools-customize.php:79
+msgid "添加"
+msgstr ""
+
+#: templates/tools-customize.php:80
+msgid "取消"
+msgstr ""
+
+#: templates/tools-hotcontent.php:17
+msgid "大家喜欢"
+msgstr ""
+
+#: templates/tools-hotcontent.php:21
+msgid "最新网址"
+msgstr ""
+
+#: templates/tools-hotcontent.php:25
+msgid "热门 App"
+msgstr ""
+
+#: templates/tools-hotcontent.php:29
+msgid "最爱 App"
+msgstr ""
+
+#: templates/tools-hotcontent.php:33
+msgid "最新 App"
+msgstr ""
+
+#: templates/tools-hotcontent.php:37
+msgid "下载最多 APP"
+msgstr ""
+
+#: templates/tools-search.php:31 templates/tools-searchm.php:31
+#: templates/tools-searchmini.php:8
+msgid "输入关键字搜索"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "WebStacks PRO"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.iowen.cn"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "by 一为！官方网站：<a href=\"https://www.iowen.cn\">一为忆</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "iowen"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.iowen.cn/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "公告列表"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "投稿模板"
+msgstr ""
